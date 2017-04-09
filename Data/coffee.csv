@@ -1,0 +1,376 @@
+,address,coffeeshop_name,geometry,yelp_id
+0,"The Ace Hotel 20 W 29th St New York, NY 10001",Stumptown Coffee Roasters,POINT (-73.9880916348562 40.7456663381275),stumptown-coffee-roasters-new-york
+1,"110 William St Lower Level New York, NY 10038",Voyager Espresso,POINT (-74.0067282 40.7087737),voyager-espresso-new-york
+2,"128 W 72nd St New York, NY 10023",Box Kite Coffee,POINT (-73.980026 40.777629),box-kite-coffee-new-york-4
+3,"495 Lorimer St Brooklyn, NY 11211",Gimme! Coffee,POINT (-73.94924899999999 40.711696),gimme-coffee-brooklyn
+4,"75 9th Ave New York, NY 10011",Ninth Street Espresso,POINT (-74.0060007320855 40.7423824065482),ninth-street-espresso-new-york-6
+5,"79 E 10th St New York, NY 10003",City of Saints Coffee Roasters,POINT (-73.99007659999999 40.7311385),city-of-saints-coffee-roasters-new-york
+6,"134 1/2 E 62nd St New York, NY 10065",Birch Coffee,POINT (-73.96658425263981 40.7638444066087),birch-coffee-new-york-8
+7,"406 Marcus Garvey Blvd Brooklyn, NY 11216",Bohaus,POINT (-73.93831 40.68294),bohaus-brooklyn-2
+8,"275 7th Ave New York, NY 10001",Seven Grams Caffe,POINT (-73.99414 40.74554),seven-grams-caffe-new-york-3
+9,"30 Broad St New York, NY 10004",Bluestone Lane,POINT (-74.01182954299161 40.7063436944471),bluestone-lane-new-york-11
+10,"125 N 6th St Brooklyn, NY 11249",Toby's Estate Coffee,POINT (-73.95921 40.71796),tobys-estate-coffee-brooklyn
+11,"102 E 23rd St New York, NY 10010",Mywaycup Coffee,POINT (-73.9860941258456 40.7400207592455),mywaycup-coffee-new-york
+12,"160 Berry St Brooklyn, NY 11211",Blue Bottle Coffee,POINT (-73.960623 40.717416),blue-bottle-coffee-brooklyn-2
+13,"270 Lafayette St New York, NY 10012",La Colombe Coffee,POINT (-73.99643 40.72396),la-colombe-coffee-new-york-2
+14,"67 Wall St New York, NY 10005",La Colombe Coffee,POINT (-74.0083486272612 40.7056896627839),la-colombe-coffee-new-york-3
+15,"155 E 52nd St New York, NY 10022",Ground Central,POINT (-73.970321 40.757575),ground-central-new-york
+16,"158 Bedford Ave Brooklyn, NY 11249",Cafe Beit,POINT (-73.95710939999999 40.718678),cafe-beit-brooklyn-2
+17,"Orchard Street Plant 81 Orchard St New York, NY 10002",Roasting Plant,POINT (-73.99051 40.71781),roasting-plant-new-york-4
+18,"405 W 23rd St New York, NY 10011",Joe Coffee,POINT (-74.00167029976051 40.7469020720739),joe-coffee-new-york-7
+19,"420 5th Ave New York, NY 10018",Hole in the Wall Coffee,POINT (-73.98337554931641 40.7508316040039),hole-in-the-wall-coffee-new-york
+20,"99 Allen St New York, NY 10002",Round K,POINT (-73.990966 40.718906),round-k-new-york
+21,"326 W 47th St New York, NY 10036",Frisson Espresso,POINT (-73.98899841308589 40.7608108520508),frisson-espresso-new-york
+22,"301 W Broadway New York, NY 10013",Everyman Espresso,POINT (-74.0044096 40.7213607),everyman-espresso-new-york-2
+23,"2730 Broadway New York, NY 10025",Plowshares Coffee Roasters,POINT (-73.96778865257819 40.800136083235),plowshares-coffee-roasters-new-york-2
+24,"72 W 38th St New York, NY 10018",Culture Espresso,POINT (-73.985756306206 40.7521922375529),culture-espresso-new-york
+25,"240 Sullivan St New York, NY 10012",Third Rail Coffee,POINT (-73.99959 40.72994),third-rail-coffee-new-york
+26,"356 Throop Ave Brooklyn, NY 11221",Burly Coffee,POINT (-73.94277409999999 40.6920973),burly-coffee-brooklyn
+27,"253 W 51 St New York, NY 10019",Bibble & Sip,POINT (-73.98518 40.76283),bibble-and-sip-new-york-2
+28,"114 Greenpoint Ave Brooklyn, NY 11222",BÚÐIN,POINT (-73.95622400000001 40.729767),búðin-brooklyn
+29,"76 Fulton St New York, NY 10038",R & R Coffee,POINT (-74.0054779 40.7089119),r-and-r-coffee-new-york
+30,"30 W 8th St New York, NY 10011",Stumptown,POINT (-73.9980379 40.732704),stumptown-new-york
+31,"275 Greenwich St New York, NY 10007",Kaffe 1668 South,POINT (-74.01092 40.71517),kaffe-1668-south-new-york
+32,"82 Central Ave Brooklyn, NY 11206",Express Yourself Barista Bar,POINT (-73.9301428209931 40.7007834810065),express-yourself-barista-bar-brooklyn
+33,"234 W 35th St New York, NY 10001",Madman Espresso,POINT (-73.991293900852 40.7520356305538),madman-espresso-new-york-4
+34,"319 E 14th St New York, NY 10003",Madman Espresso,POINT (-73.9838278699811 40.7320887578344),madman-espresso-new-york-2
+35,"155 E Broadway New York, NY 10002",12 Corners,POINT (-73.99038059999999 40.7139624),12-corners-new-york
+36,"224 W 79th St New York, NY 10024",Irving Farm Coffee Roasters,POINT (-73.979523 40.783337),irving-farm-coffee-roasters-new-york-2
+37,"33 Carmine St New York, NY 10014",Prodigy Coffee,POINT (-74.0032330155373 40.7301317900419),prodigy-coffee-new-york-2
+38,"300 Bedford Ave Brooklyn, NY 11211",Black Brick,POINT (-73.9617848396301 40.7142079238412),black-brick-brooklyn
+39,"519 Metropolitan Ave Brooklyn, NY 11211",Sugarburg,POINT (-73.95160619169469 40.7141182158499),sugarburg-brooklyn
+40,"636 Grand St Brooklyn, NY 11211",Porto Rico Importing,POINT (-73.9467086791992 40.7111625671387),porto-rico-importing-brooklyn
+41,"133-B Roebling St Brooklyn, NY 11211",Oslo Coffee Roasters,POINT (-73.956599 40.714642),oslo-coffee-roasters-brooklyn
+42,"860 Manhattan Ave Brooklyn, NY 11222",Upright Coffee,POINT (-73.9537541 40.7292285),upright-coffee-brooklyn
+43,"247 Elizabeth St New York, NY 10012",T Shop,POINT (-73.99377628345459 40.7237710224052),t-shop-new-york
+44,"319 Church St New York, NY 10013",La Colombe Coffee,POINT (-74.003781 40.719941),la-colombe-coffee-new-york
+45,"362 2nd Ave New York, NY 10010",Pushcart Coffee,POINT (-73.98135000000001 40.73666),pushcart-coffee-new-york-2
+46,"109 E 56th St New York, NY 10022",Ninth Street Espresso,POINT (-73.97033690000001 40.7608109),ninth-street-espresso-new-york-8
+47,"3004 30th St Astoria, NY 11102",Astoria Coffee,POINT (-73.92249243033839 40.7671240865304),astoria-coffee-astoria
+48,"1744 2nd Ave New York, NY 10128",DTUT,POINT (-73.94934117546801 40.7808542200993),dtut-new-york
+49,"61 W 62nd St New York, NY 10023",David Rubenstein Atrium,POINT (-73.98288700000001 40.771042),david-rubenstein-atrium-new-york
+50,"1 Rockefeller Plaza Concourse Level, Ste D New York, NY 10020",Blue Bottle Coffee,POINT (-73.97858996878669 40.7586173525015),blue-bottle-coffee-new-york-2
+51,"450 W 15th St New York, NY 10011",Blue Bottle Coffee,POINT (-74.00642350316051 40.7422500103712),blue-bottle-coffee-new-york-3
+52,"116 E 28th St New York, NY 10016",Bagel & Schmear,POINT (-73.9832270890474 40.7429185509682),bagel-and-schmear-new-york
+53,"13 Essex St New York, NY 10002",Cafe Grumpy,POINT (-73.990257 40.715183),cafe-grumpy-new-york-6
+54,"172 Allen St New York, NY 10002",Bluestockings,POINT (-73.9889199 40.72139),bluestockings-new-york
+55,"1385 6th Ave New York, NY 10019",Zibetto Espresso Bar,POINT (-73.9776043465576 40.7639232809413),zibetto-espresso-bar-new-york
+56,"71 Pineapple St Brooklyn, NY 11201",Vineapple,POINT (-73.99307556415999 40.698296727787),vineapple-brooklyn
+57,"71 Broadway New York, NY 10006",Bean & Bean,POINT (-74.0122090517805 40.7073064192213),bean-and-bean-new-york
+58,"12 E 46th St New York, NY 10176",Gregory's Coffee,POINT (-73.9782180786133 40.7554473876953),gregorys-coffee-new-york-4
+59,"120C Lafayette St New York, NY 10013",Prologue Coffee Room,POINT (-74.0004087871495 40.7189198956263),prologue-coffee-room-new-york-2
+60,"1533 Myrtle Ave Brooklyn, NY 11237",Mixtape Bushwick,POINT (-73.9140196 40.6994942),mixtape-bushwick-brooklyn
+61,"1045 6th Ave New York, NY 10018",La Colombe Coffee,POINT (-73.9854965 40.7531949),la-colombe-coffee-new-york-8
+62,"25 Jay St Brooklyn, NY 11201",Brooklyn Roasting Company,POINT (-73.98619840000001 40.7042007),brooklyn-roasting-company-brooklyn-2
+63,"774 9th Ave New York, NY 10019",Kahve,POINT (-73.9878845214844 40.7643852233887),kahve-new-york
+64,"1045 Lexington Ave New York, NY 10021",Joe Coffee,POINT (-73.960825179509 40.7721104355424),joe-coffee-new-york-5
+65,"154 Grand St New York, NY 10013",Gasoline Alley Coffee,POINT (-73.99887773516539 40.7201927690627),gasoline-alley-coffee-new-york-2
+66,"22-04 33rd St Astoria, NY 11105",OK Cafe,POINT (-73.9098901301622 40.7752143591642),ok-cafe-astoria
+67,"596 Manhattan Ave Brooklyn, NY 11222",Charlotte Patisserie,POINT (-73.95011 40.72312),charlotte-patisserie-brooklyn
+68,"54 W 40th St New York, NY 10018",Blue Bottle Coffee,POINT (-73.984223271164 40.7530635290641),blue-bottle-coffee-new-york-6
+69,"6903 3rd Ave Brooklyn, NY 11209",Coffee Rx,POINT (-74.0259379148483 40.6354921703071),coffee-rx-brooklyn
+70,"136 E 13th St New York, NY 10003",Everyman Espresso,POINT (-73.98832919892349 40.7327852478612),everyman-espresso-new-york
+71,"180 10th Ave New York, NY 10011",Intelligentsia Coffee,POINT (-74.0049928 40.745962),intelligentsia-coffee-new-york-3
+72,"228 Mott St New York, NY 10012",Gimme! Coffee,POINT (-73.994918 40.722339),gimme-coffee-new-york
+73,"222 Montrose Ave Brooklyn, NY 11206",Dun-Well Doughnuts,POINT (-73.940202 40.707743),dun-well-doughnuts-brooklyn
+74,"422 E 75th St New York, NY 10021",Oslo Coffee Roasters,POINT (-73.95371249999999 40.7691307),oslo-coffee-roasters-new-york
+75,"394 Broome St New York, NY 10013",Happy Bones NYC,POINT (-73.997066617012 40.720644146204),happy-bones-nyc-new-york
+76,"379 Grand St New York, NY 10002",Doughnut Plant,POINT (-73.9886098620298 40.7163944930004),doughnut-plant-new-york-4
+77,"864 10th Ave New York, NY 10019",Rex,POINT (-73.98857882326379 40.7688770027633),rex-new-york-2
+78,"7 E 14th St New York, NY 10003",Le Café Coffee,POINT (-73.9928742229649 40.7357460797343),le-café-coffee-new-york-2
+79,"345 Myrtle Ave Brooklyn, NY 11205",Red Lantern Bicycles,POINT (-73.9724197 40.6934509),red-lantern-bicycles-brooklyn
+80,"223 Bushwick Ave Brooklyn, NY 11206",Jessi's Coffee Shop,POINT (-73.9396057128906 40.7082786560059),jessis-coffee-shop-brooklyn
+81,"383 7th Ave Brooklyn, NY 11215",Café Grumpy,POINT (-73.9826126098633 40.6651992797852),café-grumpy-brooklyn-4
+82,"318 E 84th St New York, NY 10028",Cafe Jax,POINT (-73.9518727 40.776062),cafe-jax-new-york
+83,"17 W 32nd St New York, NY 10001",Grace Street,POINT (-73.9865590631962 40.7478576793883),grace-street-new-york
+84,"37-04 30th Ave Astoria, NY 11103",Gossip Coffee,POINT (-73.9166 40.76436),gossip-coffee-astoria-2
+85,"328 Bedford Ave Brooklyn, NY 11211",Oslo Coffee Roasters,POINT (-73.9621875 40.7130749),oslo-coffee-roasters-brooklyn-3
+86,"88 Orchard St New York, NY 10002",Irving Farm Coffee Roasters,POINT (-73.990089 40.717964),irving-farm-coffee-roasters-new-york-8
+87,"399 W Broadway New York, NY 10012",Ground Support,POINT (-74.0020576327145 40.7241968559678),ground-support-new-york
+88,"325 Lafayette St New York, NY 10012",Gasoline Alley Coffee,POINT (-73.9948196 40.7254219),gasoline-alley-coffee-new-york
+89,"59-02 Woodside Ave Woodside, NY 11377",Lucid Café,POINT (-73.90539800000001 40.745225),lucid-café-woodside-2
+90,"439 3rd Ave Brooklyn, NY 11215",Four & Twenty Blackbirds,POINT (-73.99015 40.67206),four-and-twenty-blackbirds-brooklyn
+91,"150 Manhattan Ave Brooklyn, NY 11206",Bearcat,POINT (-73.9447479248047 40.7078247070312),bearcat-brooklyn
+92,"90 S 4th St Brooklyn, NY 11249",South 4th Bar & Café,POINT (-73.9644 40.71232),south-4th-bar-and-café-brooklyn-2
+93,"10 Morton St New York, NY 10014",Bosie Tea Parlor,POINT (-74.003547 40.731151),bosie-tea-parlor-new-york
+94,"4017 7th Ave Brooklyn, NY 11232",Sun House Cafe,POINT (-74.0004084 40.6474965),sun-house-cafe-brooklyn
+95,"400 Lafayette St New York, NY 10003",La Colombe Coffee,POINT (-73.9928917586803 40.7282508909702),la-colombe-coffee-new-york-4
+96,"60 W 129th St New York, NY 10027",Lenox Coffee,POINT (-73.9431898387905 40.8100306079669),lenox-coffee-new-york-3
+97,"Wall St New York, NY",Love Truck Coffee,POINT (-74.00892 40.7060699),love-truck-coffee-new-york
+98,"515 W 47th St New York, NY 10036",The Jolly Goat Coffee Bar,POINT (-73.99419283345181 40.7633010644103),the-jolly-goat-coffee-bar-new-york
+99,"Grand Central Terminal Graybar Passage New York, NY 10017",Joe Coffee,POINT (-73.97704622513071 40.7529931503065),joe-coffee-new-york-8
+100,"1124 3rd Ave New York, NY 10065",DAVIDsTEA,POINT (-73.9637604 40.7658386),davidstea-new-york-7
+101,"73 8th Ave New York, NY 10014",Think Coffee,POINT (-74.003078 40.739551),think-coffee-new-york-4
+102,"15 W 56th St New York, NY 10019",Momofuku Milk Bar,POINT (-73.97543 40.76281),momofuku-milk-bar-new-york-14
+103,"318 11th St Brooklyn, NY 11215",Café Regular,POINT (-73.987731 40.668514),café-regular-brooklyn-2
+104,"30-05 Steinway St Astoria, NY 11103",Kinship Coffee Cooperative,POINT (-73.91512319028109 40.7634513207248),kinship-coffee-cooperative-astoria
+105,"76 Chambers St New York, NY 10007",Blue Spoon Coffee,POINT (-74.00672860443591 40.7143174856901),blue-spoon-coffee-new-york
+106,"141 Waverly Pl New York, NY 10014",Joe Coffee,POINT (-74.00062690590509 40.7332515610874),joe-coffee-new-york-4
+107,"63 Delancey St New York, NY 10002",Berkli Parc Cafe,POINT (-73.99089979999999 40.7191369),berkli-parc-cafe-new-york
+108,"10 Morton St New York, NY 10014",The Doughnut Project,POINT (-74.003547 40.731151),the-doughnut-project-new-york
+109,"58 W 44th St New York, NY 10036",Gregory's Coffee,POINT (-73.98285989999999 40.7558601),gregorys-coffee-new-york-2
+110,"200 Broadway New York, NY 10038",Irving Farm Coffee Roasters,POINT (-74.00892341849359 40.7106556460976),irving-farm-coffee-roasters-new-york-13
+111,"75 9th Ave New York, NY 10011",Amy's Bread,POINT (-74.00573243061901 40.7422315833701),amys-bread-new-york-4
+112,"10-93 Jackson Ave Long Island City, NY 11101",Sweetleaf,POINT (-73.95160404810871 40.7432877579923),sweetleaf-long-island-city
+113,"119 W 56th St New York, NY 10019",Knave,POINT (-73.978390271164 40.7643945015543),knave-new-york
+114,"563 Nostrand Ave Brooklyn, NY 11216",Richol Bakery,POINT (-73.94942399999999 40.678031),richol-bakery-brooklyn
+115,"3710 31st Ave Astoria, NY 11103",Tea Plus Cafe,POINT (-73.918453 40.761676),tea-plus-cafe-astoria
+116,"750 Columbus Ave New York, NY 10025",Birch Coffee,POINT (-73.967719 40.793416),birch-coffee-new-york-11
+117,"57 Court St Brooklyn, NY 11201",Maison Kayser,POINT (-73.9911683 40.6921231),maison-kayser-brooklyn
+118,"1652 2nd Ave New York, NY 10028",Two Little Red Hens,POINT (-73.9517869 40.777528),two-little-red-hens-new-york-4
+119,"114 Smith St Brooklyn, NY 11201",Konditori,POINT (-73.989992 40.68786),konditori-brooklyn-4
+120,"20 W 46th St New York, NY 10036",Gotan,POINT (-73.98033169999999 40.7563301),gotan-new-york-3
+121,"33 Pell Street New York, NY 10013",Juicy Spot Cafe,POINT (-73.99862899999999 40.7147999),juicy-spot-cafe-new-york-2
+122,"552 Laguardia Pl New York, NY 10012",Mille-Feuille Bakery,POINT (-73.99826623499391 40.7289482653141),mille-feuille-bakery-new-york-2
+123,"214 3rd St Brooklyn, NY 11215",Whole Foods Market,POINT (-73.98873446137701 40.6748589575184),whole-foods-market-brooklyn-2
+124,"141 E 44th St New York, NY 10017",Macchiato Espresso Bar,POINT (-73.97462 40.75265),macchiato-espresso-bar-new-york
+125,"350 7th Ave Brooklyn, NY 11215",Hanco's,POINT (-73.9823913574219 40.6663208007812),hancos-brooklyn-2
+126,"326 6th St Brooklyn, NY 11215",Postmark Cafe,POINT (-73.98520000000001 40.6710865),postmark-cafe-brooklyn
+127,"95 E Houston St New York, NY 10002",Whole Foods Market,POINT (-73.9924013834671 40.7238075549685),whole-foods-market-new-york-4
+128,"30 Wyckoff Ave Brooklyn, NY 11226",Wyckoff Starr,POINT (-73.92245 40.706088),wyckoff-starr-brooklyn
+129,"167 N 7th St Brooklyn, NY 11211",Konditori,POINT (-73.957228 40.717765),konditori-brooklyn-3
+130,"114 W 41st St New York, NY 10036",FIKA,POINT (-73.98552909999999 40.7543971),fika-new-york-22
+131,"231 Prospect Park W Brooklyn, NY 11215",Krupa Grocery,POINT (-73.980508 40.6598242),krupa-grocery-brooklyn
+132,"120 W 3rd St New York, NY 10012",OatMeals,POINT (-74.000533 40.730389),oatmeals-new-york-3
+133,"501 E 83rd St New York, NY 10028",Yorkafe,POINT (-73.9481289465576 40.7738001280068),yorkafe-new-york
+134,"12 Chatham Sq New York, NY 10038",Audrey Bakery & Cafe,POINT (-73.9978426071237 40.7139558787404),audrey-bakery-and-cafe-new-york-2
+135,"189 E Broadway New York, NY 10002",Cafe Petisco,POINT (-73.98882 40.71396),cafe-petisco-new-york
+136,"123 4th Ave New York, NY 10003",Think Coffee,POINT (-73.9897646 40.7330253),think-coffee-new-york-3
+137,"753 Washington St New York, NY 10014",Malaparte,POINT (-74.00804100000001 40.736873),malaparte-new-york
+138,"407 Park Ave S New York, NY 10016",FIKA,POINT (-73.983881 40.743459),fika-new-york-26
+139,"219 Mulberry St New York, NY 10012",Ruby's Cafe,POINT (-73.99634 40.72233),rubys-cafe-new-york-2
+140,"132 W 23rd St New York, NY 10011",La Maison du Macaron,POINT (-73.994186 40.743179),la-maison-du-macaron-new-york
+141,"1603 Cortelyou Rd Brooklyn, NY 11226",Cafe Madeline,POINT (-73.9633539 40.6419312),cafe-madeline-brooklyn
+142,"401 W 25th St New York, NY 10001",Citizens of Chelsea,POINT (-74.000569 40.748123),citizens-of-chelsea-new-york
+143,"622 Caton Ave Brooklyn, NY 11218",Parade Cafe,POINT (-73.97386 40.64754),parade-cafe-brooklyn
+144,"131 W 21st St New York, NY 10011",Joe Coffee,POINT (-73.99493990000001 40.7422492),joe-coffee-new-york-12
+145,"355 5th Ave Brooklyn, NY 11215",Café Martin,POINT (-73.98389 40.67162),café-martin-brooklyn-2
+146,"420 Troutman St Brooklyn, NY 11237",AP Café,POINT (-73.92211501909711 40.7069641936322),ap-café-brooklyn-2
+147,"5 Edward M Morgan Pl New York, NY 10032",Taszo Espresso Bar,POINT (-73.94519620789291 40.8344662595495),taszo-espresso-bar-new-york
+148,"1065 Ave Of The Americas New York, NY 10018",Coffeemania,POINT (-73.9851181213425 40.7538790453234),coffeemania-new-york-2
+149,"29 Waverly Pl New York, NY 10003",Oren's Daily Roast,POINT (-73.995053 40.7306091),orens-daily-roast-new-york
+150,"555 W 42nd St New York, NY 10036",Romeo and Juliet Colombian Coffee,POINT (-73.9976043701172 40.7609634399414),romeo-and-juliet-colombian-coffee-new-york
+151,"368 Graham Ave Brooklyn, NY 11211",Variety,POINT (-73.94425200000001 40.715415),variety-brooklyn-3
+152,"518 Nostrand Ave New York, NY 11216",Le Paris Dakar,POINT (-73.9498048730164 40.6811617534164),le-paris-dakar-new-york
+153,"150-17 Northern Blvd Flushing, NY 11354",Cafe de Cupping,POINT (-73.81441 40.76543),cafe-de-cupping-flushing
+154,"253 Flatbush Ave Brooklyn, NY 11217",Hungry Ghost,POINT (-73.974469572792 40.680439674886),hungry-ghost-brooklyn
+155,"90 University Pl New York, NY 10003",The Grey Dog,POINT (-73.99305200000001 40.733828),the-grey-dog-new-york-8
+156,"15 E 31st St New York, NY 10016",Cup & Cup,POINT (-73.98480000000001 40.74629),cup-and-cup-new-york
+157,"41-31 Queens Blvd Sunnyside, NY 11104",Caffebene,POINT (-73.9225117284238 40.7439207362114),caffebene-sunnyside
+158,"482 6th Ave New York, NY 10011",O CAFE,POINT (-73.997714430402 40.7358444596012),o-cafe-new-york-2
+159,"251 E 13th St New York, NY 10003",Momofuku Milk Bar,POINT (-73.9857388595245 40.7318893900159),momofuku-milk-bar-new-york-4
+160,"36-02 Ditmars Boulevard Astoria, NY 11105",60 Beans Kitchen & Coffee,POINT (-73.908272 40.774101),60-beans-kitchen-and-coffee-astoria-5
+161,"288 Grand St Brooklyn, NY 11211",-321° Ice Cream Shop,POINT (-73.957787 40.712905),321-ice-cream-shop-brooklyn
+162,"101 Edgecombe Ave New York, NY 10030",The Edge,POINT (-73.9460373 40.8199158),the-edge-new-york-2
+163,"234 Canal St Ste 107 New York, NY 10013",Kung Fu Tea,POINT (-73.99997 40.717691),kung-fu-tea-new-york-2
+164,"301 W 49th St New York, NY 10019",Donna Bell's Bake Shop,POINT (-73.9866878092289 40.7617664337158),donna-bells-bake-shop-new-york
+165,"1014 Fulton St Brooklyn, NY 11238",Outpost Café,POINT (-73.9602966308594 40.6818428039551),outpost-café-brooklyn-3
+166,"109 Ludlow St New York, NY 10002",Juicy Spot Cafe,POINT (-73.9886155020733 40.7191902882313),juicy-spot-cafe-new-york
+167,"362 W 45th St New York, NY 10036",Schmackary's,POINT (-73.99094425729101 40.760153883881),schmackarys-new-york
+168,"73 2nd Ave New York, NY 10003",Atlas Cafe & Bakery,POINT (-73.98944212463179 40.7265019577728),atlas-cafe-and-bakery-new-york-2
+169,"248 Mercer St New York, NY 10012",Think Coffee,POINT (-73.9952317230038 40.7284473668569),think-coffee-new-york-2
+170,"1133 Broadway Ste 706 New York, NY 10010",HiLine Coffee,POINT (-73.9892598 40.743559),hiline-coffee-new-york-6
+171,"226 Front St New York, NY 10038",Made Fresh Daily,POINT (-74.00220400000001 40.707687),made-fresh-daily-new-york
+172,"620 Manhattan Ave Brooklyn, NY 11222",Van Leeuwen Artisan Ice Cream,POINT (-73.9504318237305 40.7236137390137),van-leeuwen-artisan-ice-cream-brooklyn
+173,"52 5th Ave Brooklyn, NY 11217",5ive Spice,POINT (-73.97710619999999 40.6814048),5ive-spice-brooklyn-3
+174,"328 W 44th St New York, NY 10036",St Kilda Coffee,POINT (-73.9902648925781 40.7588882446289),st-kilda-coffee-new-york
+175,"9 Meserole St Brooklyn, NY 11206",Mountain Province,POINT (-73.95037873743441 40.7075228032172),mountain-province-brooklyn
+176,"182 Driggs Ave Brooklyn, NY 11222",Crema BK,POINT (-73.94577700000001 40.723121),crema-bk-brooklyn
+177,"267 Elizabeth St New York, NY 10012",Tacombi Nolita - Fonda Nolita,POINT (-73.9939028 40.7240304),tacombi-nolita-fonda-nolita-new-york
+178,"373 Broome St New York, NY 10013",Cha Cha Matcha,POINT (-73.9962603341294 40.7202491542753),cha-cha-matcha-new-york-8
+179,"343 Smith St Brooklyn, NY 11231",Smith Canteen,POINT (-73.99463799999999 40.680353),smith-canteen-brooklyn
+180,"31 Crosby St New York, NY 10013",Saturdays Surf NYC - Coffee Bar,POINT (-73.99930999999999 40.72072),saturdays-surf-nyc-coffee-bar-new-york
+181,"107 Roebling St Brooklyn, NY 11211",Gimme! Coffee,POINT (-73.9556808 40.7154007),gimme-coffee-brooklyn-2
+182,"163 Montrose Ave Brooklyn, NY 11206",Luckybird Bakery,POINT (-73.9427032470703 40.7076263427734),luckybird-bakery-brooklyn
+183,"147 1st Ave New York, NY 10003",The Bean,POINT (-73.98502000000001 40.728392),the-bean-new-york-4
+184,"148 Mulberry St New York, NY 10013",Caffe Palermo,POINT (-73.99727249999999 40.7189596),caffe-palermo-new-york-2
+185,"8222 17th Ave Brooklyn, NY 11214",Panino Rustico,POINT (-74.00315093994141 40.6104927062988),panino-rustico-brooklyn
+186,"66 Pearl St New York, NY 10004",FIKA,POINT (-74.010928273201 40.7035732269287),fika-new-york-25
+187,"169 Sullivan St New York, NY 10012",Banter,POINT (-74.0010959655046 40.7279129326344),banter-new-york
+188,"112 Bond St Brooklyn, NY 11217",Building on Bond,POINT (-73.985258116561 40.686466067969),building-on-bond-brooklyn
+189,"108 Central Ave Brooklyn, NY 11206",Central Cafe,POINT (-73.92942810058589 40.7002220153809),central-cafe-brooklyn-2
+190,"323 Graham Ave Brooklyn, NY 11211",Ba'sik,POINT (-73.94457 40.7139499),basik-brooklyn-2
+191,"915 Wyckoff Ave Ridgewood, NY 11385",Trans Am Cafe,POINT (-73.90621899999999 40.697052),trans-am-cafe-ridgewood
+192,"921 Broadway New York, NY 10010",Maison Kayser,POINT (-73.9897079 40.7400284),maison-kayser-new-york-2
+193,"55B Bayard St New York, NY 10013",Bubbly Tea,POINT (-73.9977798 40.7151718),bubbly-tea-new-york
+194,"116 Havemeyer St Brooklyn, NY 11211",Atlas Café,POINT (-73.957037663574 40.712721787199),atlas-café-brooklyn-2
+195,"108 Greenwich Ave New York, NY 10011",Tea & Sympathy,POINT (-74.001898149974 40.738175114449),tea-and-sympathy-new-york
+196,"1 Bleecker St New York, NY 10012",Think Coffee Bowery,POINT (-73.992469 40.725421),think-coffee-bowery-new-york
+197,"64-13 39th Ave Woodside, NY 11377",SriPraPhai Thai Restaurant,POINT (-73.89923279999999 40.7464987),sripraphai-thai-restaurant-woodside
+198,"397 Greene Ave Brooklyn, NY 11216",Pilar Cuban Eatery,POINT (-73.9551 40.68808),pilar-cuban-eatery-brooklyn-3
+199,"48 E 33rd St New York, NY 10016",Gregory's Coffee,POINT (-73.98241725758839 40.7467038734382),gregorys-coffee-new-york-12
+200,"275 7th Ave New York, NY 10001",Argo Tea Café,POINT (-73.9941599 40.74555),argo-tea-café-new-york-7
+201,"25-09 Steinway St Astoria, NY 11103",Egyptian Coffee Shop,POINT (-73.91171 40.76752),egyptian-coffee-shop-astoria
+202,"69 Cooper Sq New York, NY 10008",Cafe Zaiya,POINT (-73.9903589 40.728642),cafe-zaiya-new-york-2
+203,"246 5th Ave New York, NY 10001",Idea Coffee,POINT (-73.98725999998049 40.7447397966722),idea-coffee-new-york-2
+204,"36 W 40th St New York, NY 10018",Lady M Cake Boutique,POINT (-73.9836459 40.752722),lady-m-cake-boutique-new-york-3
+205,"180 Dekalb Ave Brooklyn, NY 11205",Bittersweet,POINT (-73.9725219 40.689498),bittersweet-brooklyn
+206,"302 Grand St Ste E New York, NY 10002",Minus Celsius Ice Cream,POINT (-73.991523 40.717678),minus-celsius-ice-cream-new-york
+207,"1792 Broadway New York, NY 10019",Argo Tea,POINT (-73.98151184903119 40.7671593115411),argo-tea-new-york-2
+208,"177 Mott St New York, NY 10012",Cafe Grumpy,POINT (-73.9960098266602 40.7203879952431),cafe-grumpy-new-york-10
+209,"401 6th Ave New York, NY 10014",Hao Noodle and Tea By Madam Zhu's Kitchen,POINT (-73.9998929006093 40.7334863190479),hao-noodle-and-tea-by-madam-zhus-kitchen-new-york
+210,"937 2nd Ave New York, NY 10022",Le Pain Quotidien,POINT (-73.9686787 40.7546875),le-pain-quotidien-new-york-134
+211,"307 E 9th St New York, NY 10003",MUD,POINT (-73.98668000000001 40.72905),mud-new-york-3
+212,"81 E 45th St New York, NY 10169",Toby's Estate Coffee,POINT (-73.9758568 40.7544956),tobys-estate-coffee-new-york-3
+213,"385 Broome St New York, NY 10013",Caffe Roma Pastry,POINT (-73.99681 40.7202399),caffe-roma-pastry-new-york
+214,"518 Hudson St New York, NY 10014",Starbucks,POINT (-74.00613 40.73368),starbucks-new-york-154
+215,"5 Doyers St New York, NY 10013",The Good Sort,POINT (-73.99804 40.7143299),the-good-sort-new-york-2
+216,"502 Court St Brooklyn, NY 11231",Le Petit Café,POINT (-73.998846 40.676716),le-petit-café-brooklyn-2
+217,"Grand Central Terminal 89 E 42nd St New York, NY 10017",Irving Farm Coffee Roasters,POINT (-73.97764373570681 40.7530286976449),irving-farm-coffee-roasters-new-york-4
+218,"1616 Amsterdam Ave New York, NY 10031",Filtered,POINT (-73.950417 40.822021),filtered-new-york-2
+219,"1309 Lexington Ave New York, NY 10128",Le Pain Quotidien,POINT (-73.9546398 40.7807622),le-pain-quotidien-new-york-143
+220,"2521 Broadway Astoria, NY 11106",Bakeway NYC,POINT (-73.927406 40.76324),bakeway-nyc-astoria
+221,"775 Franklin Ave Brooklyn, NY 11238",Bagel Pub,POINT (-73.95710699999999 40.672237),bagel-pub-brooklyn-2
+222,"1611 Broadway New York, NY 10019",Caffebene,POINT (-73.984925 40.760758),caffebene-new-york-11
+223,"205 East 42nd Street New York, NY 10017",Pret A Manger,POINT (-73.97353363037109 40.7508087158203),pret-a-manger-new-york-13
+224,"70 W 40th St New York, NY 10018",Le Pain Quotidien - Bryant Park,POINT (-73.98455 40.75324),le-pain-quotidien-bryant-park-new-york
+225,"71-60 Austin St Forest Hills, NY 11375",Red Pipe Cafe,POINT (-73.8427593914795 40.7193307280619),red-pipe-cafe-forest-hills
+226,"500 W 70th St New York, NY 10023",Pier i Cafe,POINT (-73.9875725205747 40.7793181847119),pier-i-cafe-new-york
+227,"53 W 35th St New York, NY 10001",Hanbat Restaurant,POINT (-73.9863 40.75015),hanbat-restaurant-new-york-4
+228,"144 Decatur St Brooklyn, NY 11233",Sumner Cafe,POINT (-73.93730799148319 40.6806140793622),sumner-cafe-brooklyn
+229,"137 Sullivan St New York, NY 10012",Navy Restaurant,POINT (-74.0018280581665 40.7270550504859),navy-restaurant-new-york
+230,"801 Broadway New York, NY 10003",Le Pain Quotidien  - Union Square,POINT (-73.991416 40.7326496),le-pain-quotidien-union-square-new-york
+231,"45-15 Queens Blvd Sunnyside, NY 11104",Parrot Coffee Grocery,POINT (-73.9187927 40.7435684),parrot-coffee-grocery-sunnyside
+232,"250 7th Ave New York, NY 10001",Whole Foods Market,POINT (-73.99522 40.74499),whole-foods-market-new-york
+233,"404 Lenox Ave New York, NY 10037",Astor Row Cafe,POINT (-73.9428599587774 40.8109180681876),astor-row-cafe-new-york
+234,"75 Franklin St New York, NY 10013",Billy's Bakery,POINT (-74.004299 40.717859),billys-bakery-new-york-2
+235,"3408 Union St Flushing, NY 11354",Daily Waffle,POINT (-73.82781 40.76664),daily-waffle-flushing
+236,"151 East 77th St New York, NY 10075",Handcraft Coffee,POINT (-73.95947422071571 40.7735288085102),handcraft-coffee-new-york-2
+237,"203 E 10th St New York, NY 10003",ChikaLicious Dessert Bar,POINT (-73.986357 40.729779),chikalicious-dessert-bar-new-york-3
+238,"245 Flatbush Ave Brooklyn, NY 11217",Doughnut Plant,POINT (-73.97474269999999 40.680653),doughnut-plant-brooklyn
+239,"189 Bedford  Ave Brooklyn, NY 11211",Bagelsmith,POINT (-73.95774 40.717475),bagelsmith-brooklyn
+240,"164 Park Pl Brooklyn, NY 11217",Starbucks,POINT (-73.97305053149189 40.6775106866527),starbucks-brooklyn-34
+241,"3610 Broadway New York, NY 10031",The Chipped Cup,POINT (-73.948592 40.828716),the-chipped-cup-new-york
+242,"45-22 46th St Sunnyside, NY 11104",Paris Baguette,POINT (-73.91899170000001 40.742522),paris-baguette-sunnyside
+243,"10 5th Ave New York, NY 10011",Le Pain Quotidien,POINT (-73.996585 40.732486),le-pain-quotidien-new-york-131
+244,"252 E 77th St New York, NY 10021",Le Pain Quotidien - East 77th,POINT (-73.95645949999999 40.7720616),le-pain-quotidien-east-77th-new-york-2
+245,"3712 56th St Queens, NY 11377",Joyride Coffee Distributors,POINT (-73.90657 40.75029),joyride-coffee-distributors-queens-2
+246,"265 W 37th St New York, NY 10018",Ramini Espresso Bar & Cafe,POINT (-73.9910175651312 40.7536963373423),ramini-espresso-bar-and-cafe-new-york
+247,"150 Wythe Ave Brooklyn, NY 11211",Bakeri,POINT (-73.9601364135742 40.720043182373),bakeri-brooklyn
+248,"1030 Amsterdam Ave New York, NY 10025",Hungarian Pastry Shop,POINT (-73.96365 40.8035799),hungarian-pastry-shop-new-york
+249,"1106 Cortelyou Rd Brooklyn, NY 11218",Connecticut Muffin,POINT (-73.9675979614258 40.6394958496094),connecticut-muffin-brooklyn-6
+250,"550 Hudson St New York, NY 10014",Le Pain Quotidien,POINT (-74.005802 40.735052),le-pain-quotidien-new-york-138
+251,"581 Jersey Ave Jersey City, NJ 07302",Dames Coffee Espresso Bar,POINT (-74.045998 40.723576),dames-coffee-espresso-bar-jersey-city
+252,"128 Franklin St Brooklyn, NY 11222",Littleneck Outpost,POINT (-73.957227 40.729301),littleneck-outpost-brooklyn
+253,"808 Columbus Ave New York, NY 10025",Whole Foods Market,POINT (-73.9669066497376 40.7941465912758),whole-foods-market-new-york-10
+254,"874 Avenue of the Americas New York, NY 10001",Gregorys Coffee,POINT (-73.9890575408936 40.7477121362912),gregorys-coffee-new-york-5
+255,"189 Malcolm X Blvd New York, NY 10026",Il Caffe Latte,POINT (-73.9484176635742 40.8043975830078),il-caffe-latte-new-york-2
+256,"555 5th Ave New York, NY 10017",Barnes & Noble Booksellers,POINT (-73.97874 40.7558),barnes-and-noble-booksellers-new-york-12
+257,"6 W 14th St New York, NY 10011",Caffebene,POINT (-73.99436 40.73599),caffebene-new-york-5
+258,"318 Graham Ave Brooklyn, NY 11211",Garden Grill,POINT (-73.943893 40.713508),garden-grill-brooklyn-3
+259,"220 W 23rd St New York, NY 10011",Doughnut Plant,POINT (-73.9969177 40.7444916),doughnut-plant-new-york-2
+260,"36-39 Prince St Flushing, NY 11354",Prince Tea House,POINT (-73.83264 40.76133),prince-tea-house-flushing-2
+261,"1619 Amsterdam Ave New York, NY 10031",Cafe One,POINT (-73.949569 40.822166),cafe-one-new-york
+262,"2430 3rd Ave Bronx, NY 10454",Filtered Coffee,POINT (-73.92997269999999 40.8086345),filtered-coffee-bronx
+263,"4316 Broadway New York, NY 10033",Green Juice Cafe,POINT (-73.9346599 40.85189),green-juice-cafe-new-york
+264,"55 Broad St New York, NY 10004",Starbucks,POINT (-74.011047 40.705276),starbucks-new-york-143
+265,"4102 162nd St Flushing, NY 11358",White Noise Coffee Co,POINT (-73.8038631 40.7613),white-noise-coffee-co-flushing
+266,"6 W 32nd St New York, NY 10001",Paris Baguette,POINT (-73.9863586425781 40.7472686767578),paris-baguette-new-york-2
+267,"502 9th Ave New York, NY 10018",Buongiorno Espresso Bar,POINT (-73.9940699 40.75591),buongiorno-espresso-bar-new-york
+268,"4 Union Square S New York, NY 10003",Whole Foods Market,POINT (-73.9913427829742 40.7348685454213),whole-foods-market-new-york-2
+269,"270 Greenwich St New York, NY 10007",Whole Foods Market,POINT (-74.0114756574547 40.715593464232),whole-foods-market-new-york-8
+270,"766 Grand St Brooklyn, NY 11211",Brooklyn Standard,POINT (-73.94255243115821 40.7118305173771),brooklyn-standard-brooklyn-3
+271,"45-02 Queens Blvd Sunnyside, NY 11104",New York Style Eats,POINT (-73.9191202819347 40.7430137693882),new-york-style-eats-sunnyside-2
+272,"2100 Frederick Douglass Blvd New York, NY 10026",Harlem Food Bar,POINT (-73.95635889747361 40.8027918218581),harlem-food-bar-new-york
+273,"593 Meeker Ave Brooklyn, NY 11222",Sunset Diner,POINT (-73.9422 40.7216499),sunset-diner-brooklyn-2
+274,"198 Bedford Ave Brooklyn, NY 11211",New York Muffins,POINT (-73.95826242864131 40.7174047082663),new-york-muffins-brooklyn
+275,"177 New Dorp Ln New York, NY 10306",Piece A Cake,POINT (-74.1147970675453 40.5734755325581),piece-a-cake-new-york
+276,"342 7th Ave New York, NY 10001",Pret A Manger,POINT (-73.993083 40.748102),pret-a-manger-new-york-53
+277,"2286 Adam Clayton Powell Jr Blvd New York, NY 10030",ACP Coffee,POINT (-73.9443664550781 40.8149948120117),acp-coffee-new-york
+278,"7419 3rd Ave Brooklyn, NY 11209",Starbucks,POINT (-74.027473 40.631507),starbucks-brooklyn-11
+279,"30 Rockefeller Plz New York, NY 10112",Starbucks,POINT (-73.97957725885109 40.7591288593865),starbucks-new-york-273
+280,"3570 Broadway New York, NY 10031",Hamilton's Bakery,POINT (-73.9494765934278 40.8273399113877),hamiltons-bakery-new-york
+281,"2463 Broadway New York, NY 10025",Le Pain Quotidien,POINT (-73.97438 40.7918),le-pain-quotidien-new-york-127
+282,"210-21 Northern Blvd Bayside, NY 11361",Bean Square,POINT (-73.77267329999999 40.7596206),bean-square-bayside
+283,"1416 Cortelyou Rd Brooklyn, NY 11226",Catskill Bagels,POINT (-73.964645 40.640823),catskill-bagels-brooklyn-2
+284,"3020 30th Ave Astoria, NY 11102",Tastee Corner,POINT (-73.9216863 40.76702),tastee-corner-astoria-2
+285,"1378 Lexington Ave New York, NY 10128",Juliano Gourmet Coffee,POINT (-73.9534683 40.7826614),juliano-gourmet-coffee-new-york
+286,"1901 Emmons Ave Brooklyn, NY 11235",Masal Cafe,POINT (-73.94914249999999 40.5839691),masal-cafe-brooklyn
+287,"48 1/2 E 7th St New York, NY 10003",Van Leeuwen Artisan Ice Cream,POINT (-73.98768 40.7277),van-leeuwen-artisan-ice-cream-new-york-3
+288,"161 W 72nd St New York, NY 10023",Aroma Espresso Bar,POINT (-73.9807052612305 40.7785377502441),aroma-espresso-bar-new-york-2
+289,"1559 2nd Ave New York, NY 10075",Starbucks,POINT (-73.9544022 40.7746659),starbucks-new-york-507
+290,"4961 Broadway New York, NY 10034",Darling Coffee,POINT (-73.92026300000001 40.8681059),darling-coffee-new-york
+291,"315 5th Ave New York, NY 10016",Café M,POINT (-73.98497276193829 40.7468183262652),café-m-new-york-2
+292,"39 W 32nd St New York, NY 10001",Caffebene,POINT (-73.9873123168945 40.7481575012207),caffebene-new-york-9
+293,"931 Broadway New York, NY 10010",Le Pain Quotidien,POINT (-73.989672957878 40.7404025454991),le-pain-quotidien-new-york-142
+294,"92-06 Rockaway Beach Blvd Rockaway Park, NY 11694",Rockaway Roasters,POINT (-73.8157276121466 40.5864823914456),rockaway-roasters-rockaway-park
+295,"1280 Lexington Ave New York, NY 10028",Starbucks,POINT (-73.95554468035699 40.7796413451433),starbucks-new-york-226
+296,"1547 Ralph Ave Brooklyn, NY 11236",Dunkin Donuts / Baskin Robins,POINT (-73.91930267214779 40.6391821056604),dunkin-donuts-baskin-robins-brooklyn
+297,"118-24 Queens Blvd Kew Gardens, NY 11415",Starbucks,POINT (-73.83417900000001 40.712842),starbucks-kew-gardens-2
+298,"86-51 Broadway Elmhurst, NY 11373",Starbucks,POINT (-73.8773106783628 40.7370685928095),starbucks-elmhurst-7
+299,"479 Palisade Ave Jersey City, NJ 07307",Modcup Coffee,POINT (-74.04396 40.74504),modcup-coffee-jersey-city-2
+300,"149-40 41st Ave Flushing, NY 11355",Caffeine Fix,POINT (-73.8143140971661 40.7623398003242),caffeine-fix-flushing
+301,"10 Union Sq E New York, NY 10003",Starbucks,POINT (-73.9897620735439 40.7350976758759),starbucks-new-york-168
+302,"1021 3rd Ave New York, NY 10021",Starbucks,POINT (-73.96579149999999 40.7623335),starbucks-new-york-193
+303,"370 7th Ave New York, NY 10001",Starbucks,POINT (-73.992553 40.748912),starbucks-new-york-335
+304,"600 W 218th St New York, NY 10034",Indian Road Cafe,POINT (-73.918440820966 40.872915157013),indian-road-cafe-new-york
+305,"47-11 Francis Lewis Blvd Bayside, NY 11361",BKNY Thai Restaurant,POINT (-73.78007400938399 40.7530184239866),bkny-thai-restaurant-bayside
+306,"360 W 31st St New York, NY 10001",Dunkin' Donuts,POINT (-73.9975599 40.75129),dunkin-donuts-new-york-128
+307,"1372 Broadway New York, NY 10018",Starbucks,POINT (-73.986915 40.752285),starbucks-new-york-246
+308,"234 W 238th St Bronx, NY 10463",Mon Amour Coffee & Wine,POINT (-73.9001434 40.8847906),mon-amour-coffee-and-wine-bronx
+309,"Empire State Bldg 350 5th Ave Manhattan, NY 10018",Starbucks,POINT (-73.98474520000001 40.7484567),starbucks-manhattan-63
+310,"922 7th Ave New York, NY 10019",Le Pain Quotidien - Columbus Circle,POINT (-73.9797212 40.7664066),le-pain-quotidien-columbus-circle-new-york-3
+311,"1320 Ave of the Americas New York, NY 10019",Starbucks,POINT (-73.97880069999999 40.7617972),starbucks-new-york-159
+312,"476 2nd Ave New York, NY 10016",Dunkin' Donuts / Baskin Robbins,POINT (-73.97907669999999 40.7401067),dunkin-donuts-baskin-robbins-new-york-8
+313,"156 Spring St New York, NY 10012",Soho Le Petite Cafe,POINT (-74.00166 40.72432),soho-le-petite-cafe-new-york
+314,"41-06 Bell Blvd Bayside, NY 11361",Martha's Country Bakery,POINT (-73.77113 40.76333),marthas-country-bakery-bayside
+315,"2783 3rd Ave Ste 2 Bronx, NY 10455",Perry's Coffee Shop,POINT (-73.91992190000001 40.8151093),perrys-coffee-shop-bronx-2
+316,"338 Bloomfield St Hoboken, NJ 07030",Empire Coffee & Tea Company,POINT (-74.03075 40.74135),empire-coffee-and-tea-company-hoboken
+317,"15367 Horace Harding Expy Flushing, NY 11367",Dunkin' Donuts,POINT (-73.81546 40.739521),dunkin-donuts-flushing
+318,"39-34 Bell Blvd Bayside, NY 11361",Nippon Cha,POINT (-73.77167 40.76432),nippon-cha-bayside-2
+319,"600 Madison Ave New York, NY 10022",Starbucks,POINT (-73.97242 40.762943),starbucks-new-york-224
+320,"2045 Broadway New York, NY 10023",Starbucks,POINT (-73.9826259238683 40.7777438600828),starbucks-new-york-426
+321,"510 Sixth Ave New York, NY 10011",Starbucks,POINT (-73.996664 40.736991),starbucks-new-york-307
+322,"21525 73rd Ave Oakland Gardens, NY 11364",Bell Diner,POINT (-73.7585488 40.7409068),bell-diner-oakland-gardens-4
+323,"175 Varick St New York, NY 10014",Dunkin' Donuts,POINT (-74.00572 40.72737),dunkin-donuts-new-york-77
+324,"210-20 Northern Blvd Bayside, NY 11361",Paris Baguette,POINT (-73.7719048 40.7593888),paris-baguette-bayside-3
+325,"73-10 Bell Blvd Oakland Gardens, NY 11364",Sweet Adele's,POINT (-73.75829469999999 40.7404077),sweet-adeles-oakland-gardens
+326,"944 Broad St Newark, NJ 07175",TM Ward Coffee Co,POINT (-74.17447095442689 40.7310542263148),tm-ward-coffee-co-newark
+327,"462 Fashion Ave New York, NY 10018",Starbucks,POINT (-73.9901352 40.7518539),starbucks-new-york-220
+328,"9321 Jamaica Ave Woodhaven, NY 11421",Evacha's Coffee Shop,POINT (-73.8516123948332 40.6939506222788),evachas-coffee-shop-woodhaven-3
+329,"8513 18th Ave Brooklyn, NY 11214",Dunkin' Donuts,POINT (-74.0021057128906 40.6074066162109),dunkin-donuts-brooklyn-12
+330,"112 Morris St Jersey City, NJ 07302",sam a.m.,POINT (-74.0390374 40.7140745),sam-a-m-jersey-city-2
+331,"1728 Eastchester Rd Bronx, NY 10461",Starbucks,POINT (-73.84438323974609 40.8471260070801),starbucks-bronx-4
+332,"666 Fifth Ave New York, NY 10103",Dunkin' Donuts,POINT (-73.97669980000001 40.7603683),dunkin-donuts-new-york-280
+333,"1002 Washington St Hoboken, NJ 07030",bwè kafe,POINT (-74.02751035988329 40.7487255334854),bwè-kafe-hoboken
+334,"183 Montgomery St Jersey City, NJ 07302",Short Grain,POINT (-74.04296100000001 40.717208),short-grain-jersey-city
+335,"140 Bay St Jersey City, NJ 07302",The Warehouse Cafe,POINT (-74.0391419986115 40.7206973193719),the-warehouse-cafe-jersey-city
+336,"1702 Avenue M Brooklyn, NY 11230",Frappe 'n' Wrap,POINT (-73.957910053432 40.6179700531635),frappe-n-wrap-brooklyn
+337,"5 Park Pl New York, NY 10007",Dunkin' Donuts,POINT (-74.0079564 40.7128255),dunkin-donuts-new-york-310
+338,"157 1st St Hoboken, NJ 07030",Choc O Pain,POINT (-74.03219 40.7375),choc-o-pain-hoboken-2
+339,"39-01 Main St Flushing, NY 11354",Taipan Snack,POINT (-73.8300299 40.76011),taipan-snack-flushing
+340,"360 Communipaw Ave Jersey City, NJ 07304",The Grind Shop,POINT (-74.062755 40.7117091),the-grind-shop-jersey-city
+341,"41 Main St Millburn, NJ 07041",The Coffee Mill Roasters,POINT (-74.3072194383728 40.7243210108557),the-coffee-mill-roasters-millburn
+342,"4569 Amboy Rd Staten Island, NY 10312",Filoncino Cafe,POINT (-74.165397644043 40.5425338745117),filoncino-cafe-staten-island
+343,"816 Nostrand Ave Crown Heights, NY 11216",Lula Bagel,POINT (-73.9505099 40.6708411),lula-bagel-crown-heights
+344,"342 7th St Jersey City, NJ 07302",Seven Sheep Coffee,POINT (-74.0496096527794 40.7265235581526),seven-sheep-coffee-jersey-city
+345,"837 Union Street Park Slope, NY 11215",Sir D's Lounge,POINT (-73.97602000000001 40.674945),sir-ds-lounge-park-slope
+346,"138 W Central Blvd Palisades Park, NJ 07650",Kudo Society Downtown Cafe,POINT (-74.003074 40.851123),kudo-society-downtown-cafe-palisades-park
+347,"251-05 Jericho Tpke Bellerose, NY 11426",Starbucks,POINT (-73.71388330000001 40.7269345),starbucks-bellerose-3
+348,"94 Walnut St Montclair, NJ 07042",Red Eye Cafe,POINT (-74.21084403991701 40.8170490258671),red-eye-cafe-montclair
+349,"123 Watchung Ave Montclair, NJ 07043",Bluestone Coffee Co,POINT (-74.20517 40.83031),bluestone-coffee-co-montclair-2
+350,"1017 Stuyvesant Ave Union, NJ 07083",Van Gogh's Ear Cafe,POINT (-74.26919418980771 40.6966917106997),van-goghs-ear-cafe-union
+351,"1045 Tulip Ave Franklin Square, NY 11010",Starving Artist Cafe & Gallery,POINT (-73.67825999999999 40.71317),starving-artist-cafe-and-gallery-franklin-square
+352,"138 Main St Fort Lee, NJ 07024",Eggty 8 Cafe,POINT (-73.9673316478729 40.8507601171732),eggty-8-cafe-fort-lee
+353,"220 36th St Greenwood, NY 11232",The Fashion Chef,POINT (-74.0084305 40.6566315),the-fashion-chef-greenwood
+354,"358 River Rd New Milford, NJ 07646",Glaze Donuts,POINT (-74.0212789177895 40.9408742934465),glaze-donuts-new-milford
+355,"1 Raymond Plz W Newark, NJ 07102",Zaro's Family Bakery,POINT (-74.16408199999999 40.734552),zaros-family-bakery-newark
+356,"17 Beechwood Rd Summit, NJ 07901",Boxwood Coffee,POINT (-74.3573 40.717472),boxwood-coffee-summit
+357,"5 Eastman St Cranford, NJ 07016",Track 5 Coffee,POINT (-74.3050597 40.6554415),track-5-coffee-cranford-3
+358,"10 Church St Montclair, NJ 07042",Le Petit Parisien,POINT (-74.218225479126 40.8137686306256),le-petit-parisien-montclair
+359,"311 Hempstead Tpke West Hempstead, NY 11552",The Witches Brew,POINT (-73.6504999 40.70479),the-witches-brew-west-hempstead
+360,"7823 17th Ave Bensonhurst, NY 11214",Dunkin' Donuts,POINT (-74.0005766614233 40.6125816625843),dunkin-donuts-bensonhurst
+361,"1927 Flatbush Ave Flatlands, NY 11210",Starbucks,POINT (-73.9367139996547 40.6228546828896),starbucks-flatlands-4
+362,"1 Garden State Plz Westfield Garden State Plaza Paramus, NJ 07652",Aroma Espresso Bar,POINT (-74.0766814932804 40.9194106774383),aroma-espresso-bar-paramus
+363,"8 Union Ave Cresskill, NJ 07626",Cu Latte,POINT (-73.9622213691473 40.9420866519213),cu-latte-cresskill-3
+364,"58 Pondfield Rd Bronxville, NY 10708",Slave To the Grind,POINT (-73.8337930562265 40.9408425928842),slave-to-the-grind-bronxville
+365,"10 Toler Pl Terminal A Newark, NJ 07114",Abica Coffee,POINT (-74.18225169181819 40.6875941668982),abica-coffee-newark
+366,"235 Prospect Ave West Orange, NJ 07052",Whole Foods Market,POINT (-74.248389 40.804901),whole-foods-market-west-orange
+367,"67 Waterwitch Ave Highlands, NJ 07732",Water Witch Coffee,POINT (-73.9936904907227 40.4045257568359),water-witch-coffee-highlands
+368,"159 E Park Ave Long Beach, NY 11561",Max Bialystok & Company,POINT (-73.65931749343871 40.5887000408043),max-bialystok-and-company-long-beach-2
+369,"102 Fisher Ave Eastchester, NY 10709",Polpettina,POINT (-73.8164359331131 40.9568153321743),polpettina-eastchester
+370,"3549A Long Beach Rd Oceanside, NY 11572",Starbucks,POINT (-73.6384718240883 40.623294238931),starbucks-oceanside-21
+371,"1383 Rte 35 Middletown, NJ 07748",Meemom's,POINT (-74.1206071525812 40.4007605463266),meemoms-middletown
+372,"Wick Plaza 561 Rt 1 S, Ste A-5 Edison, NJ 08817",Bubble Yogurt,POINT (-74.39809668839111 40.504823688431),bubble-yogurt-edison
+373,"224 E Hartsdale Ave Hartsdale, NY 10530",Bagels and More,POINT (-73.7962723 41.0122299),bagels-and-more-hartsdale
+374,"732 State Rt 18 East Brunswick, NJ 08816",Brunswick Bagels,POINT (-74.38211099999999 40.427524),brunswick-bagels-east-brunswick

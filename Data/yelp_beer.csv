@@ -1,0 +1,68 @@
+,address,brewery_name,geometry,yelp_id
+0,"40 Van Dyke St Brooklyn, NY 11231",Sixpoint Brewery,POINT (-74.01186370849609 40.6740226745605),sixpoint-brewery-brooklyn
+1,"46-01 5th St Long Island City, NY 11101",Rockaway Brewing Company,POINT (-73.95495344047551 40.7470981842068),rockaway-brewing-company-long-island-city
+2,"101 Luquer St Brooklyn, NY 11231",Folksbier,POINT (-74.00120544433589 40.6781272888184),folksbier-brooklyn
+3,"195 Centre St Brooklyn, NY 11231",Other Half Brewing,POINT (-73.99909220000001 40.6738735),other-half-brewing-brooklyn
+4,"333 Douglass St Brooklyn, NY 11217",Threes Brewing,POINT (-73.98227 40.67963),threes-brewing-brooklyn
+5,"574 A President St Brooklyn, NY 11215",Strong Rope Brewery,POINT (-73.9841383 40.6768103),strong-rope-brewery-brooklyn
+6,"79 N 11th St Brooklyn, NY 11211",The Brooklyn Brewery,POINT (-73.95762999999999 40.7216),the-brooklyn-brewery-brooklyn
+7,"381 Troutman St Brooklyn, NY 11237",Kings County Brewers Collective,POINT (-73.9236054652601 40.7060738809209),kings-county-brewers-collective-brooklyn
+8,"11 E 36th St New York, NY 10016",The Ginger Man,POINT (-73.98269999999999 40.74945),the-ginger-man-new-york
+9,"39-28 23rd St Long Island City, NY 11101",LIC Beer Project,POINT (-73.939375 40.7548729),lic-beer-project-long-island-city
+10,"8-08 43rd Rd Long Island City, NY 11101",Big Alice Brewing,POINT (-73.9505905 40.7520775),big-alice-brewing-long-island-city
+11,"15-35 Decatur St Ridgewood, NY 11385",Bridge and Tunnel Brewery,POINT (-73.9030978 40.6935067),bridge-and-tunnel-brewery-ridgewood
+12,"53-02 11th St Ste A Long Island City, NY 11101",Transmitter Brewing,POINT (-73.9527181 40.7402434),transmitter-brewing-long-island-city
+13,"700 Washington Ave Brooklyn, NY 11238",Bitter & Esters,POINT (-73.96388 40.67705),bitter-and-esters-brooklyn
+14,"78-01 77th Ave Ridgewood, NY 11385",Finback Brewery,POINT (-73.87317779999999 40.7065426),finback-brewery-ridgewood
+15,"15 E 7th St New York, NY 10003",McSorleys Old Ale House,POINT (-73.98965 40.72884),mcsorleys-old-ale-house-new-york
+16,"19-33 37th St Astoria, NY 11105",SingleCut Beersmiths,POINT (-73.9016724 40.7782784),singlecut-beersmiths-astoria
+17,"97 Nassau Ave Brooklyn, NY 11222",Keg & Lantern Brewing Company,POINT (-73.95037000000001 40.724117),keg-and-lantern-brewing-company-brooklyn
+18,"54-58 Pearl Street 58 Pearl St New York, NY 10004",The Porterhouse Brewing Company,POINT (-74.011177 40.703392),the-porterhouse-brewing-company-new-york
+19,"40 Minthorne St Staten Island, NY 10301",Flagship Brewing,POINT (-74.0755918 40.6372153),flagship-brewing-staten-island
+20,"479 74th St Brooklyn, NY 11209",The Owl's Head,POINT (-74.02266 40.63062),the-owls-head-brooklyn
+21,"55 Stone St New York, NY 10004",The Growler Bites & Brews,POINT (-74.0102791786194 40.7044362276793),the-growler-bites-and-brews-new-york
+22,"856 E 136th St Bronx, NY 10454",The Bronx Brewery,POINT (-73.910599 40.8019015),the-bronx-brewery-bronx
+23,"1904 Surf Ave Brooklyn, NY 11224",Coney Island Brewery,POINT (-73.984725 40.573917),coney-island-brewery-brooklyn
+24,"942 Grand St Brooklyn, NY 11211",Interboro Spirits and Ales,POINT (-73.93691 40.7126),interboro-spirits-and-ales-brooklyn
+25,"265 Bowery New York, NY 10002",Paulaner,POINT (-73.99245999999999 40.72341),paulaner-new-york
+26,"3227 Laconia Ave Bronx, NY 10469",Gun Hill Brewing Company,POINT (-73.8559265136719 40.8721122741699),gun-hill-brewing-company-bronx
+27,"20 Kinsey Pl Staten Island, NY 10303",Staten Island Beer Company,POINT (-74.169563293457 40.6287803649902),staten-island-beer-company-staten-island
+28,"114 Greenpoint Ave Brooklyn, NY 11222",BÚÐIN,POINT (-73.95622400000001 40.729767),búðin-brooklyn
+29,"415 Beach 72nd St Rockaway, NY 11692",Rockaway Brewing Company at the Beach,POINT (-73.800967 40.593017),rockaway-brewing-company-at-the-beach-rockaway-2
+30,"150 Bay St Ste 2A Jersey City, NJ 07302",Departed Soles Brewing Co,POINT (-74.03972 40.72081),departed-soles-brewing-co-jersey-city
+31,"529 Waverly Ave Brooklyn, NY 11238",Heartland Brewery Taproom,POINT (-73.9654159 40.6824127),heartland-brewery-taproom-brooklyn-2
+32,"463 E 173rd St Bronx, NY 10457",Chelsea Craft Brewing Company,POINT (-73.90145200000001 40.8417422),chelsea-craft-brewing-company-bronx-2
+33,"128 Smith St Brooklyn, NY 11201",Bar Tabac,POINT (-73.9902407 40.6874173),bar-tabac-brooklyn
+34,"4201 Tonnelle Ave North Bergen, NJ 07047",New Jersey Beer Company,POINT (-74.035118 40.782828),new-jersey-beer-company-north-bergen
+35,"285 W Broadway Ste 350 New York, NY 10013",World Sake Imports- New York,POINT (-74.00463999999999 40.72085),world-sake-imports-new-york-new-york
+36,"4 Alsan Way Little Ferry, NJ 07643",Brix City Brewing,POINT (-74.04310599999999 40.856391),brix-city-brewing-little-ferry
+37,"140 Smith St Boerum Hill, NY 11201",T2,POINT (-73.990478 40.68708),t2-boerum-hill
+38,"7 N 15th St Greenpoint, NY 11222",Greenpoint Beer and Ale,POINT (-73.95704600000001 40.725154),greenpoint-beer-and-ale-greenpoint
+39,"141-07 20th Ave Ste 403 Flushing, NY 11357",White Rock Beverages,POINT (-73.827016 40.782777),white-rock-beverages-flushing
+40,"58 Voorhis Ln Hackensack, NJ 07601",The Alementary Brewing,POINT (-74.04002 40.90459),the-alementary-brewing-hackensack
+41,"113 Franklin St Brooklyn, NY 11222",Threes @ Franklin & Kent,POINT (-73.95780999999999 40.73025),threes-franklin-and-kent-brooklyn-2
+42,"Zucotti Park Middle/ South Conner of Cedar State New York, NY",New York's Best Hot Dog,POINT (-74.01159300784499 40.709164178076),new-yorks-best-hot-dog-new-york
+43,"40 Van Dyke Street Brooklyn, NY 11231",Brownstone Ale,POINT (-74.01197000000001 40.67394),brownstone-ale-brooklyn
+44,"1618 St Nicholas Ave New York, NY 10040",El Nuevo Caridad,POINT (-73.92907 40.8553799),el-nuevo-caridad-new-york-3
+45,"167 E 106th St New York, NY 10029",Puebla's Chula,POINT (-73.945053 40.792041),pueblas-chula-new-york
+46,"1435 Main St Rahway, NJ 07065",Wet Ticket Brewing,POINT (-74.27435003221041 40.605830848217),wet-ticket-brewing-rahway
+47,"3001 New St Unit A2 Oceanside, NY 11572",Barrier Brewing Company,POINT (-73.656201 40.639079),barrier-brewing-company-oceanside
+48,"21 Teterboro Landing Dr Teterboro, NJ",BJ's Restauarant & Brewhouse,POINT (-74.060935 40.860419),bjs-restauarant-and-brewhouse-teterboro
+49,"1275 Bloomfield Ave Bldg 7, Unit 40C Fairfield, NJ 07004",Magnify Brewing,POINT (-74.3186648406939 40.8615335354866),magnify-brewing-fairfield-2
+50,"924 Hillside Ave New Hyde Park, NY 11040",Brew House,POINT (-73.69286455214019 40.7435347884893),brew-house-new-hyde-park
+51,"6 E Washington Ave Atlantic Highlands, NJ 07716",Carton Brewing,POINT (-74.03862422539051 40.4119435407348),carton-brewing-atlantic-highlands-2
+52,"13 Watchung Ave Chatham Borough, NJ 07928",Twin Elephant Brewing Company,POINT (-74.38064850000001 40.7290336),twin-elephant-brewing-company-chatham-borough
+53,"15 S Orange Ave South Orange, NJ 07079",Gaslight Brewery & Restaurant,POINT (-74.25930700000001 40.746513),gaslight-brewery-and-restaurant-south-orange
+54,"112 Valley Rd Roselle Park, NJ 07204",Climax Brewing Co,POINT (-74.28300400000001 40.659725),climax-brewing-co-roselle-park
+55,"173 Marbledale Rd Tuckahoe, NY 10707",Broken Bow Brewery,POINT (-73.81937237726051 40.954912),broken-bow-brewery-tuckahoe
+56,"750 Sunrise Hwy Valley Stream, NY 11581",BJ's Restaurant & Brewhouse,POINT (-73.72678999999999 40.66366),bjs-restaurant-and-brewhouse-valley-stream
+57,"33 Main St Woodbridge, NJ 07095",JJ Bitting Brewing Company,POINT (-74.27725073354409 40.5547007410814),jj-bitting-brewing-company-woodbridge
+58,"24 Kulick Rd Fairfield, NJ 07004",Cricket Hill Brewing,POINT (-74.2963485717773 40.8725662231445),cricket-hill-brewing-fairfield
+59,"84 Leonardville Rd Belford, NJ 07718",Belford Brewing Company,POINT (-74.0967731422094 40.414142358552),belford-brewing-company-belford
+60,"30 Nixon Ln Unit E Edison, NJ 08837",Cypress Brewing Company,POINT (-74.3660430908203 40.4984283447266),cypress-brewing-company-edison
+61,"1 Garvies Point Rd Glen Cove, NY 11542",Garvies Point Craft Brewery,POINT (-73.6424059737049 40.8591979998932),garvies-point-craft-brewery-glen-cove
+62,"600 Getty Ave Clifton, NJ 07011",Corrado's Wine and Beer Making,POINT (-74.15150010000001 40.8894974),corrados-wine-and-beer-making-clifton
+63,"200 US Hwy 1 And 9 Newark, NJ 07114",Anheuser-Busch,POINT (-74.1748634634766 40.7245218684019),anheuser-busch-newark
+64,"22 Park Pl Butler, NJ 07405",High Point Brewing Company,POINT (-74.3401322 41.0019725),high-point-brewing-company-butler
+65,"466 Riverdale Ave Yonkers, NY 10705",R & V Deli Grocery,POINT (-73.9018414914608 40.9159786999226),r-and-v-deli-grocery-yonkers
+66,"58B School St Glen Cove, NY 11542",Glen Cove Home Brew,POINT (-73.63050079999999 40.86586),glen-cove-home-brew-glen-cove
