@@ -1,0 +1,366 @@
+
+%% bare_conf.tex
+%% V1.4b
+%% 2015/08/26
+%% by Michael Shell
+%% See:
+%% http://www.michaelshell.org/
+%% for current contact information.
+%%
+%% This is a skeleton file demonstrating the use of IEEEtran.cls
+%% (requires IEEEtran.cls version 1.8b or later) with an IEEE
+%% conference paper.
+%%
+%% Support sites:
+%% http://www.michaelshell.org/tex/ieeetran/
+%% http://www.ctan.org/pkg/ieeetran
+%% and
+%% http://www.ieee.org/
+
+%%*************************************************************************
+%% Legal Notice:
+%% This code is offered as-is without any warranty either expressed or
+%% implied; without even the implied warranty of MERCHANTABILITY or
+%% FITNESS FOR A PARTICULAR PURPOSE!
+%% User assumes all risk.
+%% In no event shall the IEEE or any contributor to this code be liable for
+%% any damages or losses, including, but not limited to, incidental,
+%% consequential, or any other damages, resulting from the use or misuse
+%% of any information contained here.
+%%
+%% All comments are the opinions of their respective authors and are not
+%% necessarily endorsed by the IEEE.
+%%
+%% This work is distributed under the LaTeX Project Public License (LPPL)
+%% ( http://www.latex-project.org/ ) version 1.3, and may be freely used,
+%% distributed and modified. A copy of the LPPL, version 1.3, is included
+%% in the base LaTeX documentation of all distributions of LaTeX released
+%% 2003/12/01 or later.
+%% Retain all contribution notices and credits.
+%% ** Modified files should be clearly indicated as such, including  **
+%% ** renaming them and changing author support contact information. **
+%%*************************************************************************
+
+
+% *** Authors should verify (and, if needed, correct) their LaTeX system  ***
+% *** with the testflow diagnostic prior to trusting their LaTeX platform ***
+% *** with production work. The IEEE's font choices and paper sizes can   ***
+% *** trigger bugs that do not appear when using other class files.       ***                          ***
+% The testflow support page is at:
+% http://www.michaelshell.org/tex/testflow/
+
+\documentclass[conference]{IEEEtran}
+
+% *** CITATION PACKAGES ***
+%
+%\usepackage{cite}
+% cite.sty was written by Donald Arseneau
+% V1.6 and later of IEEEtran pre-defines the format of the cite.sty package
+% \cite{} output to follow that of the IEEE. Loading the cite package will
+% result in citation numbers being automatically sorted and properly
+% "compressed/ranged". e.g., [1], [9], [2], [7], [5], [6] without using
+% cite.sty will become [1], [2], [5]--[7], [9] using cite.sty. cite.sty's
+% \cite will automatically add leading space, if needed. Use cite.sty's
+% noadjust option (cite.sty V3.8 and later) if you want to turn this off
+% such as if a citation ever needs to be enclosed in parenthesis.
+% cite.sty is already installed on most LaTeX systems. Be sure and use
+% version 5.0 (2009-03-20) and later if using hyperref.sty.
+% The latest version can be obtained at:
+% http://www.ctan.org/pkg/cite
+% The documentation is contained in the cite.sty file itself.
+
+% *** GRAPHICS RELATED PACKAGES ***
+%
+\ifCLASSINFOpdf
+  \usepackage[pdftex]{graphicx}
+  \graphicspath{{img/}}
+  \DeclareGraphicsExtensions{.pdf,.jpeg,.png}
+\else
+  % or other class option (dvipsone, dvipdf, if not using dvips). graphicx
+  % will default to the driver specified in the system graphics.cfg if no
+  % driver is specified.
+  % \usepackage[dvips]{graphicx}
+  % declare the path(s) where your graphic files are
+  % \graphicspath{{../eps/}}
+  % and their extensions so you won't have to specify these with
+  % every instance of \includegraphics
+  % \DeclareGraphicsExtensions{.eps}
+\fi
+% graphicx was written by David Carlisle and Sebastian Rahtz. It is
+% required if you want graphics, photos, etc. graphicx.sty is already
+% installed on most LaTeX systems. The latest version and documentation
+% can be obtained at:
+% http://www.ctan.org/pkg/graphicx
+% Another good source of documentation is "Using Imported Graphics in
+% LaTeX2e" by Keith Reckdahl which can be found at:
+% http://www.ctan.org/pkg/epslatex
+%
+% latex, and pdflatex in dvi mode, support graphics in encapsulated
+% postscript (.eps) format. pdflatex in pdf mode supports graphics
+% in .pdf, .jpeg, .png and .mps (metapost) formats. Users should ensure
+% that all non-photo figures use a vector format (.eps, .pdf, .mps) and
+% not a bitmapped formats (.jpeg, .png). The IEEE frowns on bitmapped formats
+% which can result in "jaggedy"/blurry rendering of lines and letters as
+% well as large increases in file sizes.
+%
+% You can find documentation about the pdfTeX application at:
+% http://www.tug.org/applications/pdftex
+
+
+% *** ALIGNMENT PACKAGES ***
+%
+%\usepackage{array}
+% Frank Mittelbach's and David Carlisle's array.sty patches and improves
+% the standard LaTeX2e array and tabular environments to provide better
+% appearance and additional user controls. As the default LaTeX2e table
+% generation code is lacking to the point of almost being broken with
+% respect to the quality of the end results, all users are strongly
+% advised to use an enhanced (at the very least that provided by array.sty)
+% set of table tools. array.sty is already installed on most systems. The
+% latest version and documentation can be obtained at:
+% http://www.ctan.org/pkg/array
+
+% correct bad hyphenation here
+\hyphenation{op-tical net-works semi-conduc-tor}
+
+\begin{document}
+%
+% paper title
+% Titles are generally capitalized except for words such as a, an, and, as,
+% at, but, by, for, in, nor, of, on, or, the, to and up, which are usually
+% not capitalized unless they are the first or last word of the title.
+% Linebreaks \\ can be used within to get better formatting as desired.
+% Do not put math or special symbols in the title.
+\title{Classifying Airbnb Listings in New York City}
+
+
+% author names and affiliations
+% use a multiple column layout for up to three different
+% affiliations
+\author{\IEEEauthorblockN{Jonathan Pichot, Fernando Melchor, and Avikal Somvanshi}
+\IEEEauthorblockA{Center for Urban Science + Progress\\
+New York University\\
+New York, NY}
+}
+
+% conference papers do not typically use \thanks and this command
+% is locked out in conference mode. If really needed, such as for
+% the acknowledgment of grants, issue a \IEEEoverridecommandlockouts
+% after \documentclass
+
+% use for special paper notices
+%\IEEEspecialpapernotice{(Invited Paper)}
+
+% make the title area
+\maketitle
+
+% As a general rule, do not put math, special symbols or citations
+% in the abstract
+\begin{abstract}
+
+\end{abstract}
+
+\section{Introduction}
+\IEEEPARstart
+New York City is one of America's most visited cities, with iconic monuments like the
+Statue of Liberty and the Empire State Building, a vibrant arts and cultural scene,
+and an enviable conentration of bars and restaurants catering to every taste and budget.
+It's a vast city including hundreds of neighborhoods each with their unique
+history, economy, and character. The city attracted nearly 60 million visitors in 2015,
+with a year over year growth of about 2 million vistors a year since 2010.\cite{nyc_and_company_nyc_nodate} Of course,
+all these visitors need a place to stay.
+
+Airbnb provides a platform for residents to rent space in their homes and apartments.
+Founded in 2008, Airbnb's mission is to help people "monetize their extra space." They've
+been very successful, with over 3 million listings in over 65,000 cities worldwide.\cite{airbnb_about_us}
+
+\section{Literature Review}
+
+
+
+\section{Data and Methods}
+The four datasets collected for the analysis include:
+
+% \begin{itemize}
+%   \item Asthma Hospitilization Discharge Rate\cite{noauthor_information_nodate}
+%   \item Building Energy Usage\cite{noauthor_gbee_nodate}
+%   \item Neighborhood Income\cite{bureau_american_nodate}
+%   \item Neighborhood Population\cite{bureau_american_nodate}
+% \end{itemize}
+
+\subsection{Asthma Hospitilization Discharge Rate}
+Asthma hospitilization data was collected from New York State's Department of Health (NYDOH).
+The NYDOH publishes hospital discharge numbers collected by the Statewide Planning
+and Research Cooperative System (SPARCS). For this dataset, they focus only on hospital
+discharges where the principal diagnosis was asthma. This dataset is a three-year average
+over the years 2012 to 2014. The discharge rate per zip code is the total number of discharges
+divided by the average population of that zip code over the same three-year span. Certain
+zip codes with particularly low discharge rates are redacted for privacy reasons.
+
+NYDOH publishes the data on their website as tables per county but they do not provide
+a direct download. The data was collected by scraping the NYDOH website for
+the five counties in New York City: Kings, Richmond, New York, Bronx, and Queens. Zip
+codes without enough discharges to be published because of privacy and those with
+such a low count to have a Relative Standard Error of greater than 30\% were also dropped.
+This resulted in a total of 173 zip codes of asthma data.
+
+\subsection{Building Energy Usage}
+Local Law 84 in New York City requires owners of large buildings (and soon to be mid-sized
+buildings) to benchmark the energy usage of their properties and submit this data
+in a consistent way to the city. These benchmarks have come to cover many different
+energy and pollution related attributes. The two attributes relevant to this study are
+Site EUI (kBtu/ft2) and Direct GHG Emissions (MtCO2e). Site Energy Use Intensity is the
+amount of energy consumed by the property in British thermal units per gross square foot.
+Direct GHG Emissions are the total greenhouse gases emitted by the property in metric
+tons of carbon dioxide equivalent.
+
+Site EUI is used to understand the energy intensity of a building, while Direct Emissions
+will be used to determine if there is a relationship between greenhouse gas emitting
+buildings and asthma rates within an area. The data collected was for the year 2013.
+This year was chosen to fit in the middle of the three-year average (2012-2014) collected for
+asthma hospitilizaion.
+
+The dataset comes as a list of individual buildings and their performance in many energy
+related metrics. The buildings were grouped by zip code and their metrics summed to a list
+of 181 zip codes with the total Site EUIs and Direct Emissions.
+
+\subsection{Neighborhood Income and Population}
+Neighborhood and Income data were collected through the American Census Bureau's website.
+The data comes from the American Community Survey 5-year average over the years 2011-2015.
+These years were selected to overlap with the asthma hospitalization rates as much as possible.
+The attributes collected include household median income, income per capita, and total
+population per zip code tabulation area.
+
+\subsection{Merging}
+The dataset was merged by zip code. As much as zip codes are not the ideal demographic
+tabulation unit, they were necessary in this analysis as they provided the smallest level
+of resolution available for asthma hosptilization rates. The American Community Survey
+has its own proxy for zip code knows as a Zip Code Tabulation Area. ZCTAs allow for easy
+merging with other zip code indexed data. After merging all datasets, and dropping
+any zip codes that did not have all attributes available, primarily because of low number
+of asthma cases, 164 zip codes remained from the original 181.
+
+\subsection{Mapping}
+An important way to understand data of this kind is to see it on a map.
+To map the data, a shapefile of zip code boundaries was downloaded from NYC Open Data.
+
+\section{Results}
+The two primary questions this project aims to answer is is what, if any, relationship there is between
+building energy use and direct emissions to local asthma hospitilization rates. These results
+will be compared to how income affects energy use and asthma hospitilization rates.
+
+\subsection{Visualization}
+
+When comparing the maps of energy use and emissions, it is also not surprising to see
+similar patterns emerge as well. It makes sense to see Manhattan being the most energy
+intensive, but it is somewhat surprising to see that Manhattan also has some of the highest
+concentration of direct emissions.
+
+% \begin{figure}[!t]
+% \centering
+% \includegraphics[width=3.5in]{MapAsthma}
+% \caption{Asthma Hospitilization Rate per 10,000 residents}
+% \label{fig_map_asthma}
+% \end{figure}
+
+\subsection{Outliers}
+
+\subsection{Asthma Discharge Rate}
+
+
+\subsection{Building Energy Use}
+
+\section{Discussion and Conclusion}
+The results above are not what one might intuitively expect. There is essentially
+no relationship between energy use of buildings or their direct emissions of greenhouse
+gases on the asthma hospitilization rates of the zip code in which they are located.
+Instead, a much better indicator of the severe asthma rate in a region is the median
+household income. This might lead one to believe that the healthcare and living conditions
+provided by higher wealth have a much larger impact in New York City on developing
+and treating asthma than environmental factors. This analysis is not comprehensive
+enough to make that kind of conclusion, though, as there very well may be other environmental
+factors that are not taken into account by the building energy dataset that cause
+asthma. It may also be that greater wealth clusters people in regions with lower environmental
+contagions, which result in the relationship between wealth and asthma. Futher analysis is
+needed.
+
+It does appear that wealthier neighborhoods use less energy than those that are less
+wealthy, though this relationship is not particularly strong. This may be
+the result of new buildings built with higher efficiency HVAC systems and better
+insulation. Regardless, the trend is not very strong and would require further
+investigation to understand how higher wealth may result in lower building energy use.
+
+As it stands, the strongest insight provided by this analysis is that the wealthier
+a neighborhood, the lower the number of asthma-related hospitilizations take place.
+
+%
+%\begin{figure*}[!t]
+%\centering
+%\subfloat[Case I]{\includegraphics[width=2.5in]{box}%
+%\label{fig_first_case}}
+%\hfil
+%\subfloat[Case II]{\includegraphics[width=2.5in]{box}%
+%\label{fig_second_case}}
+%\caption{Simulation results for the network.}
+%\label{fig_sim}
+%\end{figure*}
+%
+% Note that often IEEE papers with subfigures do not employ subfigure
+% captions (using the optional argument to \subfloat[]), but instead will
+% reference/describe all of them (a), (b), etc., within the main caption.
+% Be aware that for subfig.sty to generate the (a), (b), etc., subfigure
+% labels, the optional argument to \subfloat must be present. If a
+% subcaption is not desired, just leave its contents blank,
+% e.g., \subfloat[].
+
+
+% An example of a floating table. Note that, for IEEE style tables, the
+% \caption command should come BEFORE the table and, given that table
+% captions serve much like titles, are usually capitalized except for words
+% such as a, an, and, as, at, but, by, for, in, nor, of, on, or, the, to
+% and up, which are usually not capitalized unless they are the first or
+% last word of the caption. Table text will default to \footnotesize as
+% the IEEE normally uses this smaller font for tables.
+% The \label must come after \caption as always.
+%
+%\begin{table}[!t]
+%% increase table row spacing, adjust to taste
+%\renewcommand{\arraystretch}{1.3}
+% if using array.sty, it might be a good idea to tweak the value of
+% \extrarowheight as needed to properly center the text within the cells
+%\caption{An Example of a Table}
+%\label{table_example}
+%\centering
+%% Some packages, such as MDW tools, offer better commands for making tables
+%% than the plain LaTeX2e tabular which is used here.
+%\begin{tabular}{|c||c|}
+%\hline
+%One & Two\\
+%\hline
+%Three & Four\\
+%\hline
+%\end{tabular}
+%\end{table}
+
+% trigger a \newpage just before the given reference
+% number - used to balance the columns on the last page
+% adjust value as needed - may need to be readjusted if
+% the document is modified later
+%\IEEEtriggeratref{8}
+% The "triggered" command can be changed if desired:
+%\IEEEtriggercmd{\enlargethispage{-5in}}
+
+% references section
+
+% can use a bibliography generated by BibTeX as a .bbl file
+% BibTeX documentation can be easily obtained at:
+% http://mirror.ctan.org/biblio/bibtex/contrib/doc/
+% The IEEEtran BibTeX style support page is at:
+% http://www.michaelshell.org/tex/ieeetran/bibtex/
+% argument is your BibTeX string definitions and bibliography database(s)
+
+\bibliographystyle{IEEEtran}
+\bibliography{library}
+
+% that's all folks
+\end{document}
