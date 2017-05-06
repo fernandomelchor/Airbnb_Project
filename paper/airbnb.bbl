@@ -21,16 +21,28 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
-\bibitem{nyc_and_company_nyc_nodate}
-\BIBentryALTinterwordspacing
-{NYC \& Company}, ``{NYC} {Visitation} {Statistics}.'' [Online]. Available:
-  \url{http://www.nycgo.com/research/nyc-statistics-page}
-\BIBentrySTDinterwordspacing
-
 \bibitem{airbnb_about_us}
 \BIBentryALTinterwordspacing
 ``About {Us} - {Airbnb}.'' [Online]. Available:
   \url{https://www.airbnb.com/about/about-us}
+\BIBentrySTDinterwordspacing
+
+\bibitem{insideairbnb}
+\BIBentryALTinterwordspacing
+``Inside airbnb. adding data to the debate.'' [Online]. Available:
+  \url{http://insideairbnb.com/about.html}
+\BIBentrySTDinterwordspacing
+
+\bibitem{yelp_api}
+\BIBentryALTinterwordspacing
+``Yelp fusion api.'' [Online]. Available:
+  \url{https://www.yelp.com/developers/documentation/v3}
+\BIBentrySTDinterwordspacing
+
+\bibitem{mapzen_isochrone}
+\BIBentryALTinterwordspacing
+``Mapzen: Isochrone api.'' [Online]. Available:
+  \url{https://mapzen.com/documentation/mobility/isochrone/api-reference/}
 \BIBentrySTDinterwordspacing
 
 \end{thebibliography}

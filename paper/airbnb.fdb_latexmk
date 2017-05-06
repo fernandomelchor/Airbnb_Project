@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex airbnb"] 1493569724 "airbnb.aux" "airbnb.bbl" "airbnb" 1493569725
+["bibtex airbnb"] 1493942281 "airbnb.aux" "airbnb.bbl" "airbnb" 1493942282
   "/usr/local/texlive/2016/texmf-dist/bibtex/bst/IEEEtran/IEEEtran.bst" 1440712899 57748 7c8250ecf02814ce6ddc0cdbb63df1dd ""
-  "airbnb.aux" 1493569725 1637 82c3eae882e288e3762b916e401b457d ""
+  "airbnb.aux" 1493942281 1845 effed4836efd971cb8c01b955327d26e ""
   "airbnb.bcf" 0 -1 0 ""
-  "library.bib" 1493569721 13707 8554842a094aed3795a113e9bff90927 ""
+  "library.bib" 1493938673 1368 4f85b8a7752b92453634b88c27f74dd0 ""
   (generated)
-  "airbnb.blg"
   "airbnb.bbl"
-["pdflatex"] 1493569724 "airbnb.tex" "airbnb.pdf" "airbnb" 1493569725
+  "airbnb.blg"
+["pdflatex"] 1493942281 "airbnb.tex" "airbnb.pdf" "airbnb" 1493942282
   "/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1136768653 2172 fd0c924230362ff848a33632ed45dc23 ""
@@ -19,6 +19,7 @@
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/times/ptmrc7t.tfm" 1136768653 2680 312a2d12b1f1df8ee0212e7ba1962402 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm" 1136768653 2288 f478fc8fed18759effb59f3dad7f3084 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/times/ptmri8r.tfm" 1136768653 4640 532ca3305aad10cc01d769f3f91f1029 ""
+  "/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb" 1248133631 32716 08e384dc442464e7285e891af9f45947 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/utmb8a.pfb" 1136849748 44729 811d6c62865936705a31c797a1d5dada ""
   "/usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb" 1136849748 44656 0cbca70e0534538582128f6b54593cca ""
   "/usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/utmr8a.pfb" 1136849748 46026 6dab18b61c907687b520c72847215a68 ""
@@ -53,10 +54,12 @@
   "/usr/local/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt" 1463979169 3873397 413fbfbbedb8e719ddc392043a7add02 ""
   "/usr/local/texlive/2016/texmf.cnf" 1463979140 577 2938757e76f31531e65cc647e3507693 ""
   "IEEEtran.cls" 1440658124 288304 b67b6fc6c2abb39f9b461923f5199343 ""
-  "airbnb.aux" 1493569725 1637 82c3eae882e288e3762b916e401b457d ""
-  "airbnb.bbl" 1493569724 1287 5ab8c6e167de5018cfadd7d8a0248771 "bibtex airbnb"
-  "airbnb.tex" 1493569723 17008 9e86a7cd8da83549ceb6bc353111850c ""
+  "airbnb.aux" 1493942281 1845 effed4836efd971cb8c01b955327d26e ""
+  "airbnb.bbl" 1493942281 1635 83f25da3197151867729d087e7f2eb0a "bibtex airbnb"
+  "airbnb.tex" 1493942280 13944 a8efa57b023c4a5005224a32693d362f ""
+  "img/beer_count.png" 1493941103 7856 df9e68e3aeefcd079d2a05dc926bfd49 ""
+  "img/coffee_count.png" 1493941127 10195 2aebbf45a944d0a9d8f90e894af2ada8 ""
   (generated)
   "airbnb.pdf"
-  "airbnb.aux"
   "airbnb.log"
+  "airbnb.aux"

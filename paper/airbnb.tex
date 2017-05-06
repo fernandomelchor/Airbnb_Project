@@ -1,54 +1,3 @@
-
-%% bare_conf.tex
-%% V1.4b
-%% 2015/08/26
-%% by Michael Shell
-%% See:
-%% http://www.michaelshell.org/
-%% for current contact information.
-%%
-%% This is a skeleton file demonstrating the use of IEEEtran.cls
-%% (requires IEEEtran.cls version 1.8b or later) with an IEEE
-%% conference paper.
-%%
-%% Support sites:
-%% http://www.michaelshell.org/tex/ieeetran/
-%% http://www.ctan.org/pkg/ieeetran
-%% and
-%% http://www.ieee.org/
-
-%%*************************************************************************
-%% Legal Notice:
-%% This code is offered as-is without any warranty either expressed or
-%% implied; without even the implied warranty of MERCHANTABILITY or
-%% FITNESS FOR A PARTICULAR PURPOSE!
-%% User assumes all risk.
-%% In no event shall the IEEE or any contributor to this code be liable for
-%% any damages or losses, including, but not limited to, incidental,
-%% consequential, or any other damages, resulting from the use or misuse
-%% of any information contained here.
-%%
-%% All comments are the opinions of their respective authors and are not
-%% necessarily endorsed by the IEEE.
-%%
-%% This work is distributed under the LaTeX Project Public License (LPPL)
-%% ( http://www.latex-project.org/ ) version 1.3, and may be freely used,
-%% distributed and modified. A copy of the LPPL, version 1.3, is included
-%% in the base LaTeX documentation of all distributions of LaTeX released
-%% 2003/12/01 or later.
-%% Retain all contribution notices and credits.
-%% ** Modified files should be clearly indicated as such, including  **
-%% ** renaming them and changing author support contact information. **
-%%*************************************************************************
-
-
-% *** Authors should verify (and, if needed, correct) their LaTeX system  ***
-% *** with the testflow diagnostic prior to trusting their LaTeX platform ***
-% *** with production work. The IEEE's font choices and paper sizes can   ***
-% *** trigger bugs that do not appear when using other class files.       ***                          ***
-% The testflow support page is at:
-% http://www.michaelshell.org/tex/testflow/
-
 \documentclass[conference]{IEEEtran}
 
 % *** CITATION PACKAGES ***
@@ -131,7 +80,7 @@
 % not capitalized unless they are the first or last word of the title.
 % Linebreaks \\ can be used within to get better formatting as desired.
 % Do not put math or special symbols in the title.
-\title{Classifying Airbnb Listings in New York City}
+\title{Towards an Automated Categorization and Rating System of Airbnb Listings in New York City}
 
 
 % author names and affiliations
@@ -162,136 +111,137 @@ New York, NY}
 
 \section{Introduction}
 \IEEEPARstart
-New York City is one of America's most visited cities, with iconic monuments like the
-Statue of Liberty and the Empire State Building, a vibrant arts and cultural scene,
-and an enviable conentration of bars and restaurants catering to every taste and budget.
-It's a vast city including hundreds of neighborhoods each with their unique
-history, economy, and character. The city attracted nearly 60 million visitors in 2015,
-with a year over year growth of about 2 million vistors a year since 2010.\cite{nyc_and_company_nyc_nodate} Of course,
-all these visitors need a place to stay.
-
-Airbnb provides a platform for residents to rent space in their homes and apartments.
+Airbnb is an online platform for residents of cities around the world to rent space in their homes and apartments.
 Founded in 2008, Airbnb's mission is to help people "monetize their extra space." They've
 been very successful, with over 3 million listings in over 65,000 cities worldwide.\cite{airbnb_about_us}
+Since Airbnb listings are short-term housing provided by residents, the quality of the space
+can vary drastically in quality, appointment, and amentities. The primary way Airbnb differentiates
+its housing options is by the nature of the room. There are three options: shared, private, or entire home. A shared listing
+is a shared space with the host, often on a couch in a living room. A private listing has
+a door, usually a bedroom. And finally, a host can rent their entire home or apartment for a period of time.
 
-\section{Literature Review}
+Airbnb allows hosts to list the attributes of their listing, including photos, access to
+technology, parking, washer/dryer, and other amentities. Past guests can leave reviews
+that give further context to the quality of the place. But Airbnb does not rate the neighborhood
+or location of the listing itself. For some more popular destinations, Airbnb does provide
+neighborhood guides on their website.
 
+This project will explore the possibility of creating a machine-learning driven
+categorization system of Airbnb listings in New York City. A rating system similar to
+the 'star rating' systems developed by the departments of tourism in several countries
+is a good example of how this kind of rating system might work. This project will focus
+on neighborhood attributes around a listing rather than attributes on the listing itself,
+but the techniques used could be applied to listing attributes as well.
 
+The classification system developed could be useful to tourists and Airbnb alike.
+Using the system, Airbnb customers in New York City would get a better idea of the amenities available
+in the neighborhood around their rental, and Airbnb could use the analysis to better understand
+their listing inventory and customer preferences. Is there stronger demand for cheaper listings?
+For listings with better public transit connectivity? For listings close to certain
+kinds of amentities? There are several rich possible applications.
 
 \section{Data and Methods}
-The four datasets collected for the analysis include:
 
-% \begin{itemize}
-%   \item Asthma Hospitilization Discharge Rate\cite{noauthor_information_nodate}
-%   \item Building Energy Usage\cite{noauthor_gbee_nodate}
-%   \item Neighborhood Income\cite{bureau_american_nodate}
-%   \item Neighborhood Population\cite{bureau_american_nodate}
-% \end{itemize}
+\subsection{Airbnb Listings}
+The Airbnb listings for New York City were collected from InsideAirbnb.com,\cite{insideairbnb} a
+website run by a New York City-based housing activist named Murray Cox. The website
+scrapes Airbnb's website for many cities around the world, creating snapshots of all
+listings on the site in a city on a given day. The data used in this analysis was from the
+scrape of New York City on March 2nd, 2017.
 
-\subsection{Asthma Hospitilization Discharge Rate}
-Asthma hospitilization data was collected from New York State's Department of Health (NYDOH).
-The NYDOH publishes hospital discharge numbers collected by the Statewide Planning
-and Research Cooperative System (SPARCS). For this dataset, they focus only on hospital
-discharges where the principal diagnosis was asthma. This dataset is a three-year average
-over the years 2012 to 2014. The discharge rate per zip code is the total number of discharges
-divided by the average population of that zip code over the same three-year span. Certain
-zip codes with particularly low discharge rates are redacted for privacy reasons.
-
-NYDOH publishes the data on their website as tables per county but they do not provide
-a direct download. The data was collected by scraping the NYDOH website for
-the five counties in New York City: Kings, Richmond, New York, Bronx, and Queens. Zip
-codes without enough discharges to be published because of privacy and those with
-such a low count to have a Relative Standard Error of greater than 30\% were also dropped.
-This resulted in a total of 173 zip codes of asthma data.
-
-\subsection{Building Energy Usage}
-Local Law 84 in New York City requires owners of large buildings (and soon to be mid-sized
-buildings) to benchmark the energy usage of their properties and submit this data
-in a consistent way to the city. These benchmarks have come to cover many different
-energy and pollution related attributes. The two attributes relevant to this study are
-Site EUI (kBtu/ft2) and Direct GHG Emissions (MtCO2e). Site Energy Use Intensity is the
-amount of energy consumed by the property in British thermal units per gross square foot.
-Direct GHG Emissions are the total greenhouse gases emitted by the property in metric
-tons of carbon dioxide equivalent.
-
-Site EUI is used to understand the energy intensity of a building, while Direct Emissions
-will be used to determine if there is a relationship between greenhouse gas emitting
-buildings and asthma rates within an area. The data collected was for the year 2013.
-This year was chosen to fit in the middle of the three-year average (2012-2014) collected for
-asthma hospitilizaion.
-
-The dataset comes as a list of individual buildings and their performance in many energy
-related metrics. The buildings were grouped by zip code and their metrics summed to a list
-of 181 zip codes with the total Site EUIs and Direct Emissions.
-
-\subsection{Neighborhood Income and Population}
-Neighborhood and Income data were collected through the American Census Bureau's website.
-The data comes from the American Community Survey 5-year average over the years 2011-2015.
-These years were selected to overlap with the asthma hospitalization rates as much as possible.
-The attributes collected include household median income, income per capita, and total
-population per zip code tabulation area.
-
-\subsection{Merging}
-The dataset was merged by zip code. As much as zip codes are not the ideal demographic
-tabulation unit, they were necessary in this analysis as they provided the smallest level
-of resolution available for asthma hosptilization rates. The American Community Survey
-has its own proxy for zip code knows as a Zip Code Tabulation Area. ZCTAs allow for easy
-merging with other zip code indexed data. After merging all datasets, and dropping
-any zip codes that did not have all attributes available, primarily because of low number
-of asthma cases, 164 zip codes remained from the original 181.
-
-\subsection{Mapping}
-An important way to understand data of this kind is to see it on a map.
-To map the data, a shapefile of zip code boundaries was downloaded from NYC Open Data.
-
-\section{Results}
-The two primary questions this project aims to answer is is what, if any, relationship there is between
-building energy use and direct emissions to local asthma hospitilization rates. These results
-will be compared to how income affects energy use and asthma hospitilization rates.
-
-\subsection{Visualization}
-
-When comparing the maps of energy use and emissions, it is also not surprising to see
-similar patterns emerge as well. It makes sense to see Manhattan being the most energy
-intensive, but it is somewhat surprising to see that Manhattan also has some of the highest
-concentration of direct emissions.
-
-% \begin{figure}[!t]
-% \centering
-% \includegraphics[width=3.5in]{MapAsthma}
-% \caption{Asthma Hospitilization Rate per 10,000 residents}
-% \label{fig_map_asthma}
-% \end{figure}
+The scraped data includes a lot of relevant information that was used in the analysis
+including the price of the listing, how many reviews have been posted on it, its
+approximate location (Airbnb does not publish the exact location of listings for security
+reasons), the minimum number of nights per booking, the room type (shared, private, entire), and
+many more.
 
 \subsection{Outliers}
+To make sure the analysis was performed on Airbnb listings that are actually being rented we
+removed certain outliers. This left us with the listings with the below attributes:
 
-\subsection{Asthma Discharge Rate}
+\begin{itemize}
+  \item Minimum of 7 or less nights per booking
+  \item Listing price of \$500 or less
+  \item At least 1 review
+\end{itemize}
+
+We feel a listing requiring a booking of greater than 7 nights begins to be considered a sublet rather
+than short-term housing similar to a hotel room. Some listing had absurdly high listing prices. \$500 a night
+is the equivalent of a high end hotel. Finally, by requiring at least 1 review we removed
+listings that had likely never been booked. After removing all outliers we end up with
+28,970 listings.
+
+\subsection{Custom Attributes}
+In addition to the attributes collected by Inside Airbnb, we added four custom attributes to each listing.
+We developed using publicly available data. They are:
+
+\begin{itemize}
+  \item Median Household Income
+  \item Craft Beer Count
+  \item Specialty Coffee Count
+  \item Connectivity Score
+\end{itemize}
+
+\subsection{Median income}
+
+\subsection{Craft Beer and Specialty Coffee Counts}
+One way to disguinsh a neighborhood is to identify the kinds of businesses it can support.
+Certain kinds of businesses cater to certain tastes. Two kinds of establishments that have
+become popular in what could be called the 'tastemaking young professionals' class is
+speciality coffee (also referred to as third-wave coffee) and craft beer. The density
+of these kinds of establishments in a neighborhood should work as a good indicator of
+the kind of clientele a certain neighborhood attracts.
+
+The location of speciality coffee shops and breweries were collected using Yelp's API.\cite{yelp_api}
+All coffeeshops in New York City that were returned from the API when searching for the
+string 'third wave coffee' were collected. Similarly, all breweries that were returned
+from the API when searching for 'brewery' were also collected. This resulted in lists of
+375 coffeeshops and 67 breweries.
+
+These lists were then run through Mapzen's Isochrone API.\cite{mapzen_isochrone} This endpoint takes a point
+and returns a polygon that represents all the area one can travel to given a certain time
+and using a certain mode. Every coffeeshop and brewery was then merged on a polygon that
+represented the area one could access in 10 minutes while walking (also known as a walkshed).
+
+Finally, using these walksheds, the total number of speciality coffeeshops and breweries within
+a 10 minute walk was calculated for every Airbnb listing. These totals gave us what we called
+our 'coffee count' and 'beer count'. The distributions of these attributes can be seen in
+Figure \ref{fig_coffee_count} and Figure \ref{fig_beer_count} respectively.
+
+\begin{figure}[!t]
+\centering
+\includegraphics[width=3.5in]{beer_count}
+\caption{Distribution of Beer Count}
+\label{fig_beer_count}
+\end{figure}
+
+\begin{figure}[!t]
+\centering
+\includegraphics[width=3.5in]{coffee_count}
+\caption{Distribution of Coffee Count}
+\label{fig_coffee_count}
+\end{figure}
+
+\subsection{Connectivity Score}
 
 
-\subsection{Building Energy Use}
+
+\begin{figure}[!t]
+\centering
+\includegraphics[width=3.5in]{coffee_count}
+\caption{Asthma Hospitilization Rate per 10,000 residents}
+\label{fig_coffee_count}
+\end{figure}
+
+
+\section{Clustering}
+We
+
+\subsection{Neighborhood Profiles}
+
 
 \section{Discussion and Conclusion}
-The results above are not what one might intuitively expect. There is essentially
-no relationship between energy use of buildings or their direct emissions of greenhouse
-gases on the asthma hospitilization rates of the zip code in which they are located.
-Instead, a much better indicator of the severe asthma rate in a region is the median
-household income. This might lead one to believe that the healthcare and living conditions
-provided by higher wealth have a much larger impact in New York City on developing
-and treating asthma than environmental factors. This analysis is not comprehensive
-enough to make that kind of conclusion, though, as there very well may be other environmental
-factors that are not taken into account by the building energy dataset that cause
-asthma. It may also be that greater wealth clusters people in regions with lower environmental
-contagions, which result in the relationship between wealth and asthma. Futher analysis is
-needed.
 
-It does appear that wealthier neighborhoods use less energy than those that are less
-wealthy, though this relationship is not particularly strong. This may be
-the result of new buildings built with higher efficiency HVAC systems and better
-insulation. Regardless, the trend is not very strong and would require further
-investigation to understand how higher wealth may result in lower building energy use.
-
-As it stands, the strongest insight provided by this analysis is that the wealthier
-a neighborhood, the lower the number of asthma-related hospitilizations take place.
 
 %
 %\begin{figure*}[!t]
