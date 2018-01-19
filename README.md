@@ -1,6 +1,10 @@
 # Airbnb Automated Classification System 
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~lmf445/63.embed"></iframe>
+<div>
+    <a href="https://plot.ly/~lmf445/63/?share_key=84u4NJ7uhtJDeDUxERUS1K" target="_blank" title="Airbnb_Automated_Classification_System" style="display: block; text-align: center;"><img src="https://plot.ly/~lmf445/63.png?share_key=84u4NJ7uhtJDeDUxERUS1K" alt="Airbnb_Automated_Classification_System" style="max-width: 100%;width: 900px;"  width="900" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="lmf445:63" sharekey-plotly="84u4NJ7uhtJDeDUxERUS1K" src="https://plot.ly/embed.js" async></script>
+</div>
+
 
 ### By Jonathan Pichot, Fernando Melchor, and Avikal Somvanshi
 
