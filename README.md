@@ -1,5 +1,11 @@
 # Airbnb Automated Classification System 
 
+<div>
+    <a href="https://plot.ly/~lmf445/61/?share_key=BuQfOlMojV8vFZJJY09qGq" target="_blank" title="Airbnb Automated Classification System" style="display: block; text-align: center;"><img src="https://plot.ly/~lmf445/61.png?share_key=BuQfOlMojV8vFZJJY09qGq" alt="Airbnb Automated Classification System" style="max-width: 100%;width: 900px;"  width="900" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="lmf445:61" sharekey-plotly="BuQfOlMojV8vFZJJY09qGq" src="https://plot.ly/embed.js" async></script>
+</div>
+
+
 ### By Jonathan Pichot, Fernando Melchor, and Avikal Somvanshi
 
 ##### Abstract—Machine Learning techniques from all ranges of complexity are used to analyze datasets. Unsupervised classification could be used to enhanced our understanding of a system by analyzing the classification outcome. While humans are good at classifying things visually, when multi-dimensionality is involved, machine learning can help us to close this gap and enhance our understanding. This project applies an unsupervised classification technique to Airbnb listings in New York City with the purpose of developing an automated categorization and rating system for listings to be used by consumers and Airbnb itself.
